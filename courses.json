@@ -61,7 +61,8 @@
       "region": "St George",
       "drive_minutes_from_bondi": 30,
       "holes": 18,
-      "par": 64
+      "par": 64,
+      "notes": "18 holes open Saturday, 9 holes not available Saturday."
     },
     {
       "name": "Beverley Park Golf Club",
@@ -71,7 +72,8 @@
       "region": "St George",
       "drive_minutes_from_bondi": 30,
       "holes": 18,
-      "par": 70
+      "par": 70,
+      "notes": "Saturday open including mornings. $48 weekend rate."
     },
     {
       "name": "Brighton Lakes Recreation Club",
@@ -79,7 +81,7 @@
       "host": "brightonlakes.miclub.com.au",
       "feeGroupId": "4328836",
       "region": "South West",
-      "drive_minutes_from_bondi": 45,
+      "drive_minutes_from_bondi": 50,
       "holes": 18,
       "par": 72,
       "notes": "Moorebank — longest drive on the list."
@@ -93,7 +95,7 @@
       "drive_minutes_from_bondi": 25,
       "holes": 18,
       "par": 71,
-      "notes": "Members club — may have limited public availability."
+      "notes": "Members club — may have limited public Saturday availability."
     },
     {
       "name": "Castle Cove Country Club",
@@ -104,18 +106,111 @@
       "drive_minutes_from_bondi": 35,
       "holes": 18,
       "par": 64,
-      "notes": "Members club — may have limited public availability."
+      "notes": "Members club — may have limited public Saturday availability."
     },
     {
       "name": "Bankstown Golf Club",
       "slug": "bankstown",
-      "host": "bankstown.miclub.com.au",
+      "host": "www.bankstowngolf.com.au",
       "feeGroupId": "1509794765",
       "region": "South West",
       "drive_minutes_from_bondi": 45,
       "holes": 18,
       "par": 71,
-      "address": "70 Ashford Ave, Milperra NSW"
+      "notes": "Saturday 18 holes NOT available (member comp). 9 holes only at $44 Saturday."
+    },
+    {
+      "name": "Kareela Golf Club",
+      "slug": "kareela",
+      "host": "kareela.miclub.com.au",
+      "feeGroupId": "DISCOVER",
+      "region": "Sutherland Shire",
+      "drive_minutes_from_bondi": 35,
+      "holes": 18,
+      "par": 65,
+      "notes": "Saturday open AFTER NOON only. Par 65, tight tree-lined valley course. Run discover.py to find feeGroupId."
+    },
+    {
+      "name": "Stonecutters Ridge Golf Club",
+      "slug": "stonecutters-ridge",
+      "host": "stonecutters.miclub.com.au",
+      "feeGroupId": "DISCOVER",
+      "region": "Western Sydney",
+      "drive_minutes_from_bondi": 60,
+      "holes": 18,
+      "par": 71,
+      "notes": "Greg Norman design. Saturday social play AFTERNOON only. $70 weekend. Run discover.py to find feeGroupId."
+    },
+    {
+      "name": "Campbelltown Golf Club",
+      "slug": "campbelltown",
+      "host": "campbelltown.miclub.com.au",
+      "feeGroupId": "DISCOVER",
+      "region": "South West",
+      "drive_minutes_from_bondi": 55,
+      "holes": 18,
+      "par": 72,
+      "notes": "Saturday 18 holes NOT available (member comp). Has multiple booking resource IDs — check site. Run discover.py to find feeGroupId."
+    },
+    {
+      "name": "Massey Park Golf Club",
+      "slug": "massey-park",
+      "host": "masseypark.miclub.com.au",
+      "feeGroupId": "DISCOVER",
+      "region": "Inner West",
+      "drive_minutes_from_bondi": 30,
+      "holes": 18,
+      "par": 70,
+      "notes": "Concord. Saturday availability unconfirmed — scraper will determine. Run discover.py to find feeGroupId."
+    },
+    {
+      "name": "Mona Vale Golf Club",
+      "slug": "mona-vale",
+      "host": "monavale.miclub.com.au",
+      "feeGroupId": "DISCOVER",
+      "region": "Northern Beaches",
+      "drive_minutes_from_bondi": 50,
+      "holes": 18,
+      "par": 73,
+      "notes": "Rated 4.5 on Fairway Finders. Run discover.py to find feeGroupId."
+    },
+    {
+      "name": "Wakehurst Golf Club",
+      "slug": "wakehurst",
+      "host": "wakehurst.miclub.com.au",
+      "feeGroupId": "DISCOVER",
+      "region": "Northern Beaches",
+      "drive_minutes_from_bondi": 45,
+      "holes": 18,
+      "par": 72,
+      "notes": "Semi-private, Allambie Heights. Rated 4.5. Run discover.py to find feeGroupId."
+    },
+    {
+      "name": "Moore Park Golf",
+      "slug": "moore-park",
+      "host": "moorepark.miclub.com.au",
+      "feeGroupId": "1517552327",
+      "bookingResourceId": "3050007",
+      "region": "Eastern Suburbs",
+      "drive_minutes_from_bondi": 20,
+      "holes": 18,
+      "par": 70,
+      "notes": "Requires MiClub login to book — scraper may not access public times without account. Currently reduced to ~10 holes due to council redevelopment works."
+    },
+    {
+      "name": "North Ryde Golf Club",
+      "slug": "north-ryde",
+      "host": "northryde.miclub.com.au",
+      "feeGroupId": "5351785",
+      "region": "North Shore",
+      "drive_minutes_from_bondi": 40,
+      "holes": 18,
+      "par": 70,
+      "notes": "Semi-private. Saturday availability unconfirmed — scraper will determine."
     }
-  ]
+  ],
+  "_meta": {
+    "last_updated": "2026-09-14",
+    "notes": "feeGroupId values marked DISCOVER need the discover.py script run against them: python3 scraper/discover.py <slug>. Campbelltown has multiple booking resources — may need manual investigation. Bankstown host corrected from bankstown.miclub.com.au to www.bankstowngolf.com.au. Moore Park may require login. Courses not on MiClub (excluded): Bardwell Valley (phone only), Warringah (Chronogolf), Marrickville (members only Sat morning), Dunheved (GolfNow), Macquarie Links (GolfNow)."
+  }
 }
