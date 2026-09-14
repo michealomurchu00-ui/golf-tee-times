@@ -177,7 +177,7 @@ def scrape_course(course: dict, days: int) -> dict:
         "slug": course["slug"],
         "name": course["name"],
         "region": course.get("region", ""),
-        "drive_minutes_from_bondi": course.get("drive_minutes_from_bondi"),
+        "drive_minutes_from_randwick": course.get("drive_minutes_from_randwick"),
         "holes": course.get("holes"),
         "notes": course.get("notes", ""),
         "host": host,
