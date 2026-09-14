@@ -6,7 +6,7 @@
       "host": "woollahra.miclub.com.au",
       "feeGroupId": "3050666",
       "region": "Eastern Suburbs",
-      "drive_minutes_from_bondi": 10,
+      "drive_minutes_from_randwick": 10,
       "holes": 9,
       "par": 34,
       "notes": "Weekend public play is 9 holes only. Twilight pricing kicks in around 4pm."
@@ -17,7 +17,7 @@
       "host": "www.eastlakegolfclub.com.au",
       "feeGroupId": "3784606",
       "region": "Eastern Suburbs",
-      "drive_minutes_from_bondi": 15,
+      "drive_minutes_from_randwick": 10,
       "holes": 18,
       "par": 72
     },
@@ -27,31 +27,44 @@
       "host": "www.coastgolf.com.au",
       "feeGroupId": "1508176600",
       "region": "Eastern Suburbs",
-      "drive_minutes_from_bondi": 25,
+      "drive_minutes_from_randwick": 20,
       "holes": 18,
       "par": 71,
       "notes": "Little Bay, ocean cliff course."
     },
     {
-      "name": "Northbridge Golf Club",
-      "slug": "northbridge",
-      "host": "northbridge.miclub.com.au",
-      "feeGroupId": "132857",
-      "region": "North Shore",
-      "drive_minutes_from_bondi": 30,
+      "name": "Moore Park Golf",
+      "slug": "moore-park",
+      "host": "moorepark.miclub.com.au",
+      "feeGroupId": "1517552327",
+      "bookingResourceId": "3050007",
+      "region": "Eastern Suburbs",
+      "drive_minutes_from_randwick": 15,
       "holes": 18,
-      "par": 64,
-      "notes": "Short, hilly course — par 64."
+      "par": 70,
+      "notes": "Requires MiClub login to book — scraper may not access public times without account. Currently reduced to ~10 holes due to council redevelopment works."
     },
     {
-      "name": "Long Reef Golf Club",
-      "slug": "long-reef",
-      "host": "longreef.miclub.com.au",
-      "feeGroupId": "3752188",
-      "region": "Northern Beaches",
-      "drive_minutes_from_bondi": 45,
+      "name": "Strathfield Golf Club",
+      "slug": "strathfield",
+      "host": "www.strathfieldgolf.com.au",
+      "feeGroupId": "1514453417",
+      "region": "Inner West",
+      "drive_minutes_from_randwick": 25,
       "holes": 18,
-      "par": 72
+      "par": 71,
+      "notes": "Members club — may have limited public Saturday availability."
+    },
+    {
+      "name": "Massey Park Golf Club",
+      "slug": "massey-park",
+      "host": "masseypark.miclub.com.au",
+      "feeGroupId": "DISCOVER",
+      "region": "Inner West",
+      "drive_minutes_from_randwick": 25,
+      "holes": 18,
+      "par": 70,
+      "notes": "Concord. Saturday availability unconfirmed. Run discover.py to find feeGroupId."
     },
     {
       "name": "Bexley Golf Club",
@@ -59,7 +72,7 @@
       "host": "bexley.miclub.com.au",
       "feeGroupId": "5315151",
       "region": "St George",
-      "drive_minutes_from_bondi": 30,
+      "drive_minutes_from_randwick": 25,
       "holes": 18,
       "par": 64,
       "notes": "18 holes open Saturday, 9 holes not available Saturday."
@@ -70,32 +83,21 @@
       "host": "beverleypark.miclub.com.au",
       "feeGroupId": "5268234",
       "region": "St George",
-      "drive_minutes_from_bondi": 30,
+      "drive_minutes_from_randwick": 25,
       "holes": 18,
       "par": 70,
       "notes": "Saturday open including mornings. $48 weekend rate."
     },
     {
-      "name": "Brighton Lakes Recreation Club",
-      "slug": "brighton-lakes",
-      "host": "brightonlakes.miclub.com.au",
-      "feeGroupId": "4328836",
-      "region": "South West",
-      "drive_minutes_from_bondi": 50,
+      "name": "Northbridge Golf Club",
+      "slug": "northbridge",
+      "host": "northbridge.miclub.com.au",
+      "feeGroupId": "132857",
+      "region": "North Shore",
+      "drive_minutes_from_randwick": 30,
       "holes": 18,
-      "par": 72,
-      "notes": "Moorebank — longest drive on the list."
-    },
-    {
-      "name": "Strathfield Golf Club",
-      "slug": "strathfield",
-      "host": "www.strathfieldgolf.com.au",
-      "feeGroupId": "1514453417",
-      "region": "Inner West",
-      "drive_minutes_from_bondi": 25,
-      "holes": 18,
-      "par": 71,
-      "notes": "Members club — may have limited public Saturday availability."
+      "par": 64,
+      "notes": "Short, hilly course — par 64."
     },
     {
       "name": "Castle Cove Country Club",
@@ -103,21 +105,10 @@
       "host": "www.castlecovegolf.com.au",
       "feeGroupId": "868752",
       "region": "North Shore",
-      "drive_minutes_from_bondi": 35,
+      "drive_minutes_from_randwick": 35,
       "holes": 18,
       "par": 64,
       "notes": "Members club — may have limited public Saturday availability."
-    },
-    {
-      "name": "Bankstown Golf Club",
-      "slug": "bankstown",
-      "host": "www.bankstowngolf.com.au",
-      "feeGroupId": "1509794765",
-      "region": "South West",
-      "drive_minutes_from_bondi": 45,
-      "holes": 18,
-      "par": 71,
-      "notes": "Saturday 18 holes NOT available (member comp). 9 holes only at $44 Saturday."
     },
     {
       "name": "Kareela Golf Club",
@@ -125,77 +116,21 @@
       "host": "kareela.miclub.com.au",
       "feeGroupId": "DISCOVER",
       "region": "Sutherland Shire",
-      "drive_minutes_from_bondi": 35,
+      "drive_minutes_from_randwick": 35,
       "holes": 18,
       "par": 65,
       "notes": "Saturday open AFTER NOON only. Par 65, tight tree-lined valley course. Run discover.py to find feeGroupId."
     },
     {
-      "name": "Stonecutters Ridge Golf Club",
-      "slug": "stonecutters-ridge",
-      "host": "stonecutters.miclub.com.au",
-      "feeGroupId": "DISCOVER",
-      "region": "Western Sydney",
-      "drive_minutes_from_bondi": 60,
+      "name": "Bankstown Golf Club",
+      "slug": "bankstown",
+      "host": "www.bankstowngolf.com.au",
+      "feeGroupId": "1509794765",
+      "region": "South West",
+      "drive_minutes_from_randwick": 40,
       "holes": 18,
       "par": 71,
-      "notes": "Greg Norman design. Saturday social play AFTERNOON only. $70 weekend. Run discover.py to find feeGroupId."
-    },
-    {
-      "name": "Campbelltown Golf Club",
-      "slug": "campbelltown",
-      "host": "campbelltown.miclub.com.au",
-      "feeGroupId": "DISCOVER",
-      "region": "South West",
-      "drive_minutes_from_bondi": 55,
-      "holes": 18,
-      "par": 72,
-      "notes": "Saturday 18 holes NOT available (member comp). Has multiple booking resource IDs — check site. Run discover.py to find feeGroupId."
-    },
-    {
-      "name": "Massey Park Golf Club",
-      "slug": "massey-park",
-      "host": "masseypark.miclub.com.au",
-      "feeGroupId": "DISCOVER",
-      "region": "Inner West",
-      "drive_minutes_from_bondi": 30,
-      "holes": 18,
-      "par": 70,
-      "notes": "Concord. Saturday availability unconfirmed — scraper will determine. Run discover.py to find feeGroupId."
-    },
-    {
-      "name": "Mona Vale Golf Club",
-      "slug": "mona-vale",
-      "host": "monavale.miclub.com.au",
-      "feeGroupId": "DISCOVER",
-      "region": "Northern Beaches",
-      "drive_minutes_from_bondi": 50,
-      "holes": 18,
-      "par": 73,
-      "notes": "Rated 4.5 on Fairway Finders. Run discover.py to find feeGroupId."
-    },
-    {
-      "name": "Wakehurst Golf Club",
-      "slug": "wakehurst",
-      "host": "wakehurst.miclub.com.au",
-      "feeGroupId": "DISCOVER",
-      "region": "Northern Beaches",
-      "drive_minutes_from_bondi": 45,
-      "holes": 18,
-      "par": 72,
-      "notes": "Semi-private, Allambie Heights. Rated 4.5. Run discover.py to find feeGroupId."
-    },
-    {
-      "name": "Moore Park Golf",
-      "slug": "moore-park",
-      "host": "moorepark.miclub.com.au",
-      "feeGroupId": "1517552327",
-      "bookingResourceId": "3050007",
-      "region": "Eastern Suburbs",
-      "drive_minutes_from_bondi": 20,
-      "holes": 18,
-      "par": 70,
-      "notes": "Requires MiClub login to book — scraper may not access public times without account. Currently reduced to ~10 holes due to council redevelopment works."
+      "notes": "Saturday 18 holes NOT available (member comp). 9 holes only at $44 Saturday."
     },
     {
       "name": "North Ryde Golf Club",
@@ -203,14 +138,80 @@
       "host": "northryde.miclub.com.au",
       "feeGroupId": "5351785",
       "region": "North Shore",
-      "drive_minutes_from_bondi": 40,
+      "drive_minutes_from_randwick": 40,
       "holes": 18,
       "par": 70,
       "notes": "Semi-private. Saturday availability unconfirmed — scraper will determine."
+    },
+    {
+      "name": "Long Reef Golf Club",
+      "slug": "long-reef",
+      "host": "longreef.miclub.com.au",
+      "feeGroupId": "3752188",
+      "region": "Northern Beaches",
+      "drive_minutes_from_randwick": 45,
+      "holes": 18,
+      "par": 72
+    },
+    {
+      "name": "Wakehurst Golf Club",
+      "slug": "wakehurst",
+      "host": "wakehurst.miclub.com.au",
+      "feeGroupId": "DISCOVER",
+      "region": "Northern Beaches",
+      "drive_minutes_from_randwick": 45,
+      "holes": 18,
+      "par": 72,
+      "notes": "Semi-private, Allambie Heights. Rated 4.5. Run discover.py to find feeGroupId."
+    },
+    {
+      "name": "Brighton Lakes Recreation Club",
+      "slug": "brighton-lakes",
+      "host": "brightonlakes.miclub.com.au",
+      "feeGroupId": "4328836",
+      "region": "South West",
+      "drive_minutes_from_randwick": 45,
+      "holes": 18,
+      "par": 72,
+      "notes": "Moorebank."
+    },
+    {
+      "name": "Mona Vale Golf Club",
+      "slug": "mona-vale",
+      "host": "monavale.miclub.com.au",
+      "feeGroupId": "DISCOVER",
+      "region": "Northern Beaches",
+      "drive_minutes_from_randwick": 50,
+      "holes": 18,
+      "par": 73,
+      "notes": "Rated 4.5 on Fairway Finders. Run discover.py to find feeGroupId."
+    },
+    {
+      "name": "Campbelltown Golf Club",
+      "slug": "campbelltown",
+      "host": "campbelltown.miclub.com.au",
+      "feeGroupId": "DISCOVER",
+      "region": "South West",
+      "drive_minutes_from_randwick": 55,
+      "holes": 18,
+      "par": 72,
+      "notes": "Saturday 18 holes NOT available (member comp). Run discover.py to find feeGroupId."
+    },
+    {
+      "name": "Stonecutters Ridge Golf Club",
+      "slug": "stonecutters-ridge",
+      "host": "stonecutters.miclub.com.au",
+      "feeGroupId": "DISCOVER",
+      "region": "Western Sydney",
+      "drive_minutes_from_randwick": 60,
+      "holes": 18,
+      "par": 71,
+      "notes": "Greg Norman design. Saturday social play AFTERNOON only. $70 weekend. Run discover.py to find feeGroupId."
     }
   ],
   "_meta": {
     "last_updated": "2026-09-14",
-    "notes": "feeGroupId values marked DISCOVER need the discover.py script run against them: python3 scraper/discover.py <slug>. Campbelltown has multiple booking resources — may need manual investigation. Bankstown host corrected from bankstown.miclub.com.au to www.bankstowngolf.com.au. Moore Park may require login. Courses not on MiClub (excluded): Bardwell Valley (phone only), Warringah (Chronogolf), Marrickville (members only Sat morning), Dunheved (GolfNow), Macquarie Links (GolfNow)."
+    "base_location": "Randwick, NSW (-33.8996, 151.2456)",
+    "notes": "feeGroupId values marked DISCOVER need: python3 scraper/discover.py <slug>. Bankstown host corrected to www.bankstowngolf.com.au. Moore Park may require login. Courses not on MiClub (excluded): Bardwell Valley (phone only), Warringah (Chronogolf), Marrickville (members only Sat morning), Dunheved (GolfNow), Macquarie Links (GolfNow)."
   }
 }
