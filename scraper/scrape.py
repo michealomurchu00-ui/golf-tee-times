@@ -1,7 +1,7 @@
 """
 Scrape available tee times from MiClub-hosted Sydney public golf courses.
 
-Reads courses.json, fetches each course's public timesheet for the next 5 days,
+Reads courses.json, fetches each course's public timesheet for the next 7 days,
 writes data/teetimes.json.
 
 Usage:
@@ -33,7 +33,7 @@ DEBUG_DIR = ROOT / "scraper" / "debug"
 USER_AGENT = "GolfTeeTimeFinder/1.0 (personal, hello@letsbundle.online)"
 TIMEOUT = 25
 SLEEP_BETWEEN_REQUESTS = 1.0
-DEFAULT_LOOKAHEAD_DAYS = 5
+DEFAULT_LOOKAHEAD_DAYS = 7
 SYDNEY = ZoneInfo("Australia/Sydney")
 
 
