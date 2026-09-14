@@ -122,7 +122,7 @@ function mapHref(course) {
 
 function buildCourseMeta(course) {
   const bits = [];
-  if (course.drive_minutes_from_bondi != null) bits.push(`${course.drive_minutes_from_bondi} min from Bondi`);
+  if (course.drive_minutes_from_randwick != null) bits.push(`${course.drive_minutes_from_randwick} min from Randwick`);
   if (course.holes) bits.push(`${course.holes} holes`);
   if (course.region) bits.push(course.region);
 
@@ -201,7 +201,7 @@ function render() {
     dayDiv.appendChild(heading);
 
     const courseEntries = [...byDate.get(date).values()].sort((a, b) =>
-      (a.course.drive_minutes_from_bondi || 999) - (b.course.drive_minutes_from_bondi || 999)
+      (a.course.drive_minutes_from_randwick || 999) - (b.course.drive_minutes_from_randwick || 999)
     );
 
     for (const { course, slots } of courseEntries) {
