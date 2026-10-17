@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T00:37:19+11:00",
+  "generated_at": "2026-10-18T10:57:14+11:00",
   "lookahead_days": 7,
   "courses": [
     {
@@ -12,20 +12,6 @@
       "host": "woollahra.miclub.com.au",
       "error": null,
       "slots": [
-        {
-          "date": "2026-10-18",
-          "time": "13:08",
-          "spots_available": 1,
-          "total_spots": 4,
-          "price_tiers": [
-            {
-              "label": "Weekend 2024",
-              "amount": 41.0
-            }
-          ],
-          "booking_type": "Public Bookings",
-          "booking_url": "https://woollahra.miclub.com.au/guests/bookings/ViewPublicTimesheet.msp?bookingResourceId=3000000&feeGroupId=3050666&selectedDate=2026-10-18"
-        },
         {
           "date": "2026-10-18",
           "time": "13:32",
@@ -140,24 +126,6 @@
         },
         {
           "date": "2026-10-18",
-          "time": "17:00",
-          "spots_available": 2,
-          "total_spots": 4,
-          "price_tiers": [
-            {
-              "label": "Weekend 2024",
-              "amount": 41.0
-            },
-            {
-              "label": "Twilight",
-              "amount": 26.0
-            }
-          ],
-          "booking_type": "Public Bookings",
-          "booking_url": "https://woollahra.miclub.com.au/guests/bookings/ViewPublicTimesheet.msp?bookingResourceId=3000000&feeGroupId=3050666&selectedDate=2026-10-18"
-        },
-        {
-          "date": "2026-10-18",
           "time": "17:08",
           "spots_available": 2,
           "total_spots": 4,
@@ -177,7 +145,7 @@
         {
           "date": "2026-10-18",
           "time": "17:16",
-          "spots_available": 4,
+          "spots_available": 1,
           "total_spots": 4,
           "price_tiers": [
             {
@@ -385,7 +353,7 @@
         {
           "date": "2026-10-19",
           "time": "07:34",
-          "spots_available": 2,
+          "spots_available": 1,
           "total_spots": 4,
           "price_tiers": [
             {
@@ -399,7 +367,7 @@
         {
           "date": "2026-10-19",
           "time": "07:42",
-          "spots_available": 4,
+          "spots_available": 1,
           "total_spots": 4,
           "price_tiers": [
             {
@@ -413,7 +381,7 @@
         {
           "date": "2026-10-19",
           "time": "07:58",
-          "spots_available": 4,
+          "spots_available": 2,
           "total_spots": 4,
           "price_tiers": [
             {
@@ -609,7 +577,7 @@
         {
           "date": "2026-10-19",
           "time": "10:06",
-          "spots_available": 1,
+          "spots_available": 4,
           "total_spots": 4,
           "price_tiers": [
             {
@@ -960,20 +928,6 @@
           "date": "2026-10-19",
           "time": "14:58",
           "spots_available": 4,
-          "total_spots": 4,
-          "price_tiers": [
-            {
-              "label": "Midweek 2024",
-              "amount": 39.0
-            }
-          ],
-          "booking_type": "Public Play",
-          "booking_url": "https://woollahra.miclub.com.au/guests/bookings/ViewPublicTimesheet.msp?bookingResourceId=3000000&feeGroupId=3050666&selectedDate=2026-10-19"
-        },
-        {
-          "date": "2026-10-19",
-          "time": "15:06",
-          "spots_available": 1,
           "total_spots": 4,
           "price_tiers": [
             {
@@ -1408,20 +1362,6 @@
           "date": "2026-10-20",
           "time": "06:30",
           "spots_available": 1,
-          "total_spots": 4,
-          "price_tiers": [
-            {
-              "label": "Midweek 2024",
-              "amount": 39.0
-            }
-          ],
-          "booking_type": "Public Play",
-          "booking_url": "https://woollahra.miclub.com.au/guests/bookings/ViewPublicTimesheet.msp?bookingResourceId=3000000&feeGroupId=3050666&selectedDate=2026-10-20"
-        },
-        {
-          "date": "2026-10-20",
-          "time": "06:38",
-          "spots_available": 4,
           "total_spots": 4,
           "price_tiers": [
             {
@@ -2284,20 +2224,6 @@
         },
         {
           "date": "2026-10-21",
-          "time": "07:42",
-          "spots_available": 4,
-          "total_spots": 4,
-          "price_tiers": [
-            {
-              "label": "Midweek 2024",
-              "amount": 39.0
-            }
-          ],
-          "booking_type": "Public Play & Comp",
-          "booking_url": "https://woollahra.miclub.com.au/guests/bookings/ViewPublicTimesheet.msp?bookingResourceId=3000000&feeGroupId=3050666&selectedDate=2026-10-21"
-        },
-        {
-          "date": "2026-10-21",
           "time": "07:50",
           "spots_available": 4,
           "total_spots": 4,
@@ -2368,48 +2294,6 @@
         },
         {
           "date": "2026-10-21",
-          "time": "08:38",
-          "spots_available": 4,
-          "total_spots": 4,
-          "price_tiers": [
-            {
-              "label": "Midweek 2024",
-              "amount": 39.0
-            }
-          ],
-          "booking_type": "Public Play & Comp",
-          "booking_url": "https://woollahra.miclub.com.au/guests/bookings/ViewPublicTimesheet.msp?bookingResourceId=3000000&feeGroupId=3050666&selectedDate=2026-10-21"
-        },
-        {
-          "date": "2026-10-21",
-          "time": "09:02",
-          "spots_available": 2,
-          "total_spots": 4,
-          "price_tiers": [
-            {
-              "label": "Midweek 2024",
-              "amount": 39.0
-            }
-          ],
-          "booking_type": "Public Play & Comp",
-          "booking_url": "https://woollahra.miclub.com.au/guests/bookings/ViewPublicTimesheet.msp?bookingResourceId=3000000&feeGroupId=3050666&selectedDate=2026-10-21"
-        },
-        {
-          "date": "2026-10-21",
-          "time": "09:10",
-          "spots_available": 2,
-          "total_spots": 4,
-          "price_tiers": [
-            {
-              "label": "Midweek 2024",
-              "amount": 39.0
-            }
-          ],
-          "booking_type": "Public Play & Comp",
-          "booking_url": "https://woollahra.miclub.com.au/guests/bookings/ViewPublicTimesheet.msp?bookingResourceId=3000000&feeGroupId=3050666&selectedDate=2026-10-21"
-        },
-        {
-          "date": "2026-10-21",
           "time": "09:18",
           "spots_available": 1,
           "total_spots": 4,
@@ -2452,22 +2336,8 @@
         },
         {
           "date": "2026-10-21",
-          "time": "10:14",
-          "spots_available": 4,
-          "total_spots": 4,
-          "price_tiers": [
-            {
-              "label": "Midweek 2024",
-              "amount": 39.0
-            }
-          ],
-          "booking_type": "Public Play & Comp",
-          "booking_url": "https://woollahra.miclub.com.au/guests/bookings/ViewPublicTimesheet.msp?bookingResourceId=3000000&feeGroupId=3050666&selectedDate=2026-10-21"
-        },
-        {
-          "date": "2026-10-21",
           "time": "10:22",
-          "spots_available": 4,
+          "spots_available": 2,
           "total_spots": 4,
           "price_tiers": [
             {
@@ -2705,7 +2575,7 @@
         {
           "date": "2026-10-21",
           "time": "12:54",
-          "spots_available": 4,
+          "spots_available": 1,
           "total_spots": 4,
           "price_tiers": [
             {
@@ -3530,7 +3400,7 @@
         {
           "date": "2026-10-19",
           "time": "08:20",
-          "spots_available": 3,
+          "spots_available": 4,
           "total_spots": 4,
           "price_tiers": [
             {
@@ -3670,6 +3540,20 @@
         {
           "date": "2026-10-19",
           "time": "09:48",
+          "spots_available": 4,
+          "total_spots": 4,
+          "price_tiers": [
+            {
+              "label": "Monday 7:00am-2:00pm",
+              "amount": 85.0
+            }
+          ],
+          "booking_type": "1st Tee",
+          "booking_url": "https://www.coastgolf.com.au/guests/bookings/ViewPublicTimesheet.msp?bookingResourceId=3000000&feeGroupId=1508176600&selectedDate=2026-10-19"
+        },
+        {
+          "date": "2026-10-19",
+          "time": "09:56",
           "spots_available": 4,
           "total_spots": 4,
           "price_tiers": [
@@ -3950,20 +3834,6 @@
         {
           "date": "2026-10-19",
           "time": "12:52",
-          "spots_available": 4,
-          "total_spots": 4,
-          "price_tiers": [
-            {
-              "label": "Monday 7:00am-2:00pm",
-              "amount": 85.0
-            }
-          ],
-          "booking_type": "1st Tee",
-          "booking_url": "https://www.coastgolf.com.au/guests/bookings/ViewPublicTimesheet.msp?bookingResourceId=3000000&feeGroupId=1508176600&selectedDate=2026-10-19"
-        },
-        {
-          "date": "2026-10-19",
-          "time": "13:08",
           "spots_available": 4,
           "total_spots": 4,
           "price_tiers": [
@@ -4594,7 +4464,7 @@
         {
           "date": "2026-10-20",
           "time": "13:08",
-          "spots_available": 4,
+          "spots_available": 3,
           "total_spots": 4,
           "price_tiers": [
             {
@@ -6067,272 +5937,6 @@
       "error": null,
       "slots": [
         {
-          "date": "2026-10-18",
-          "time": "13:33",
-          "spots_available": 2,
-          "total_spots": 4,
-          "price_tiers": [
-            {
-              "label": "Weekend-Green Fee",
-              "amount": 100.0
-            }
-          ],
-          "booking_type": "1ST TEE GREEN FEE PLAY ONLY",
-          "booking_url": "https://www.strathfieldgolf.com.au/guests/bookings/ViewPublicTimesheet.msp?bookingResourceId=3000000&feeGroupId=1514453417&selectedDate=2026-10-18"
-        },
-        {
-          "date": "2026-10-18",
-          "time": "13:41",
-          "spots_available": 1,
-          "total_spots": 4,
-          "price_tiers": [
-            {
-              "label": "Weekend-Green Fee",
-              "amount": 100.0
-            }
-          ],
-          "booking_type": "1ST TEE GREEN FEE PLAY ONLY",
-          "booking_url": "https://www.strathfieldgolf.com.au/guests/bookings/ViewPublicTimesheet.msp?bookingResourceId=3000000&feeGroupId=1514453417&selectedDate=2026-10-18"
-        },
-        {
-          "date": "2026-10-18",
-          "time": "13:49",
-          "spots_available": 2,
-          "total_spots": 4,
-          "price_tiers": [
-            {
-              "label": "Weekend-Green Fee",
-              "amount": 100.0
-            }
-          ],
-          "booking_type": "1ST TEE GREEN FEE PLAY ONLY",
-          "booking_url": "https://www.strathfieldgolf.com.au/guests/bookings/ViewPublicTimesheet.msp?bookingResourceId=3000000&feeGroupId=1514453417&selectedDate=2026-10-18"
-        },
-        {
-          "date": "2026-10-18",
-          "time": "14:44",
-          "spots_available": 1,
-          "total_spots": 4,
-          "price_tiers": [
-            {
-              "label": "Weekend-Green Fee",
-              "amount": 100.0
-            }
-          ],
-          "booking_type": "1ST TEE",
-          "booking_url": "https://www.strathfieldgolf.com.au/guests/bookings/ViewPublicTimesheet.msp?bookingResourceId=3000000&feeGroupId=1514453417&selectedDate=2026-10-18"
-        },
-        {
-          "date": "2026-10-18",
-          "time": "15:08",
-          "spots_available": 1,
-          "total_spots": 4,
-          "price_tiers": [
-            {
-              "label": "Weekend-Green Fee",
-              "amount": 100.0
-            }
-          ],
-          "booking_type": "1ST TEE",
-          "booking_url": "https://www.strathfieldgolf.com.au/guests/bookings/ViewPublicTimesheet.msp?bookingResourceId=3000000&feeGroupId=1514453417&selectedDate=2026-10-18"
-        },
-        {
-          "date": "2026-10-18",
-          "time": "15:16",
-          "spots_available": 2,
-          "total_spots": 4,
-          "price_tiers": [
-            {
-              "label": "Weekend-Green Fee",
-              "amount": 100.0
-            }
-          ],
-          "booking_type": "1ST TEE",
-          "booking_url": "https://www.strathfieldgolf.com.au/guests/bookings/ViewPublicTimesheet.msp?bookingResourceId=3000000&feeGroupId=1514453417&selectedDate=2026-10-18"
-        },
-        {
-          "date": "2026-10-18",
-          "time": "15:24",
-          "spots_available": 1,
-          "total_spots": 4,
-          "price_tiers": [
-            {
-              "label": "Weekend-Green Fee",
-              "amount": 100.0
-            }
-          ],
-          "booking_type": "1ST TEE",
-          "booking_url": "https://www.strathfieldgolf.com.au/guests/bookings/ViewPublicTimesheet.msp?bookingResourceId=3000000&feeGroupId=1514453417&selectedDate=2026-10-18"
-        },
-        {
-          "date": "2026-10-18",
-          "time": "15:32",
-          "spots_available": 2,
-          "total_spots": 4,
-          "price_tiers": [
-            {
-              "label": "Weekend-Green Fee",
-              "amount": 100.0
-            }
-          ],
-          "booking_type": "1ST TEE",
-          "booking_url": "https://www.strathfieldgolf.com.au/guests/bookings/ViewPublicTimesheet.msp?bookingResourceId=3000000&feeGroupId=1514453417&selectedDate=2026-10-18"
-        },
-        {
-          "date": "2026-10-18",
-          "time": "15:40",
-          "spots_available": 4,
-          "total_spots": 4,
-          "price_tiers": [
-            {
-              "label": "Weekend-Green Fee",
-              "amount": 100.0
-            }
-          ],
-          "booking_type": "1ST TEE",
-          "booking_url": "https://www.strathfieldgolf.com.au/guests/bookings/ViewPublicTimesheet.msp?bookingResourceId=3000000&feeGroupId=1514453417&selectedDate=2026-10-18"
-        },
-        {
-          "date": "2026-10-18",
-          "time": "15:48",
-          "spots_available": 4,
-          "total_spots": 4,
-          "price_tiers": [
-            {
-              "label": "Weekend-Green Fee",
-              "amount": 100.0
-            }
-          ],
-          "booking_type": "1ST TEE",
-          "booking_url": "https://www.strathfieldgolf.com.au/guests/bookings/ViewPublicTimesheet.msp?bookingResourceId=3000000&feeGroupId=1514453417&selectedDate=2026-10-18"
-        },
-        {
-          "date": "2026-10-18",
-          "time": "15:56",
-          "spots_available": 3,
-          "total_spots": 4,
-          "price_tiers": [
-            {
-              "label": "Weekend-Green Fee",
-              "amount": 100.0
-            }
-          ],
-          "booking_type": "1ST TEE",
-          "booking_url": "https://www.strathfieldgolf.com.au/guests/bookings/ViewPublicTimesheet.msp?bookingResourceId=3000000&feeGroupId=1514453417&selectedDate=2026-10-18"
-        },
-        {
-          "date": "2026-10-18",
-          "time": "16:04",
-          "spots_available": 4,
-          "total_spots": 4,
-          "price_tiers": [
-            {
-              "label": "Weekend-Green Fee",
-              "amount": 100.0
-            }
-          ],
-          "booking_type": "1ST TEE",
-          "booking_url": "https://www.strathfieldgolf.com.au/guests/bookings/ViewPublicTimesheet.msp?bookingResourceId=3000000&feeGroupId=1514453417&selectedDate=2026-10-18"
-        },
-        {
-          "date": "2026-10-18",
-          "time": "16:12",
-          "spots_available": 3,
-          "total_spots": 4,
-          "price_tiers": [
-            {
-              "label": "Weekend-Green Fee",
-              "amount": 100.0
-            }
-          ],
-          "booking_type": "1ST TEE",
-          "booking_url": "https://www.strathfieldgolf.com.au/guests/bookings/ViewPublicTimesheet.msp?bookingResourceId=3000000&feeGroupId=1514453417&selectedDate=2026-10-18"
-        },
-        {
-          "date": "2026-10-18",
-          "time": "16:20",
-          "spots_available": 4,
-          "total_spots": 4,
-          "price_tiers": [
-            {
-              "label": "Weekend-Green Fee",
-              "amount": 100.0
-            }
-          ],
-          "booking_type": "1ST TEE",
-          "booking_url": "https://www.strathfieldgolf.com.au/guests/bookings/ViewPublicTimesheet.msp?bookingResourceId=3000000&feeGroupId=1514453417&selectedDate=2026-10-18"
-        },
-        {
-          "date": "2026-10-18",
-          "time": "16:28",
-          "spots_available": 4,
-          "total_spots": 4,
-          "price_tiers": [
-            {
-              "label": "Weekend-Green Fee",
-              "amount": 100.0
-            }
-          ],
-          "booking_type": "1ST TEE",
-          "booking_url": "https://www.strathfieldgolf.com.au/guests/bookings/ViewPublicTimesheet.msp?bookingResourceId=3000000&feeGroupId=1514453417&selectedDate=2026-10-18"
-        },
-        {
-          "date": "2026-10-18",
-          "time": "16:36",
-          "spots_available": 4,
-          "total_spots": 4,
-          "price_tiers": [
-            {
-              "label": "Weekend-Green Fee",
-              "amount": 100.0
-            }
-          ],
-          "booking_type": "1ST TEE",
-          "booking_url": "https://www.strathfieldgolf.com.au/guests/bookings/ViewPublicTimesheet.msp?bookingResourceId=3000000&feeGroupId=1514453417&selectedDate=2026-10-18"
-        },
-        {
-          "date": "2026-10-18",
-          "time": "16:44",
-          "spots_available": 4,
-          "total_spots": 4,
-          "price_tiers": [
-            {
-              "label": "Weekend-Green Fee",
-              "amount": 100.0
-            }
-          ],
-          "booking_type": "1ST TEE",
-          "booking_url": "https://www.strathfieldgolf.com.au/guests/bookings/ViewPublicTimesheet.msp?bookingResourceId=3000000&feeGroupId=1514453417&selectedDate=2026-10-18"
-        },
-        {
-          "date": "2026-10-18",
-          "time": "16:52",
-          "spots_available": 4,
-          "total_spots": 4,
-          "price_tiers": [
-            {
-              "label": "Weekend-Green Fee",
-              "amount": 100.0
-            }
-          ],
-          "booking_type": "1ST TEE",
-          "booking_url": "https://www.strathfieldgolf.com.au/guests/bookings/ViewPublicTimesheet.msp?bookingResourceId=3000000&feeGroupId=1514453417&selectedDate=2026-10-18"
-        },
-        {
-          "date": "2026-10-18",
-          "time": "17:00",
-          "spots_available": 4,
-          "total_spots": 4,
-          "price_tiers": [
-            {
-              "label": "Weekend-Green Fee",
-              "amount": 100.0
-            }
-          ],
-          "booking_type": "1ST TEE",
-          "booking_url": "https://www.strathfieldgolf.com.au/guests/bookings/ViewPublicTimesheet.msp?bookingResourceId=3000000&feeGroupId=1514453417&selectedDate=2026-10-18"
-        },
-        {
           "date": "2026-10-19",
           "time": "11:48",
           "spots_available": 2,
@@ -6895,7 +6499,7 @@
         {
           "date": "2026-10-20",
           "time": "11:40",
-          "spots_available": 4,
+          "spots_available": 1,
           "total_spots": 4,
           "price_tiers": [
             {
@@ -6909,20 +6513,6 @@
         {
           "date": "2026-10-20",
           "time": "11:48",
-          "spots_available": 4,
-          "total_spots": 4,
-          "price_tiers": [
-            {
-              "label": "Mid-Week-Green Fee",
-              "amount": 80.0
-            }
-          ],
-          "booking_type": "1ST TEE GREEN FEE PLAY ONLY",
-          "booking_url": "https://www.strathfieldgolf.com.au/guests/bookings/ViewPublicTimesheet.msp?bookingResourceId=3000000&feeGroupId=1514453417&selectedDate=2026-10-20"
-        },
-        {
-          "date": "2026-10-20",
-          "time": "12:04",
           "spots_available": 4,
           "total_spots": 4,
           "price_tiers": [
@@ -7371,7 +6961,7 @@
         {
           "date": "2026-10-21",
           "time": "16:04",
-          "spots_available": 4,
+          "spots_available": 3,
           "total_spots": 4,
           "price_tiers": [
             {
@@ -7526,6 +7116,20 @@
           "date": "2026-10-22",
           "time": "11:48",
           "spots_available": 4,
+          "total_spots": 4,
+          "price_tiers": [
+            {
+              "label": "Mid-Week-Green Fee",
+              "amount": 80.0
+            }
+          ],
+          "booking_type": "1ST TEE GREEN FEE PLAY ONLY",
+          "booking_url": "https://www.strathfieldgolf.com.au/guests/bookings/ViewPublicTimesheet.msp?bookingResourceId=3000000&feeGroupId=1514453417&selectedDate=2026-10-22"
+        },
+        {
+          "date": "2026-10-22",
+          "time": "11:56",
+          "spots_available": 1,
           "total_spots": 4,
           "price_tiers": [
             {
@@ -8281,7 +7885,7 @@
         {
           "date": "2026-10-24",
           "time": "14:40",
-          "spots_available": 1,
+          "spots_available": 2,
           "total_spots": 4,
           "price_tiers": [
             {
@@ -8487,42 +8091,6 @@
       "error": null,
       "slots": [
         {
-          "date": "2026-10-18",
-          "time": "12:15",
-          "spots_available": 1,
-          "total_spots": 4,
-          "price_tiers": [],
-          "booking_type": "Social Play",
-          "booking_url": "https://masseypark.miclub.com.au/guests/bookings/ViewPublicTimesheet.msp?bookingResourceId=3000000&feeGroupId=DISCOVER&selectedDate=2026-10-18"
-        },
-        {
-          "date": "2026-10-18",
-          "time": "16:27",
-          "spots_available": 1,
-          "total_spots": 4,
-          "price_tiers": [],
-          "booking_type": "Social Play",
-          "booking_url": "https://masseypark.miclub.com.au/guests/bookings/ViewPublicTimesheet.msp?bookingResourceId=3000000&feeGroupId=DISCOVER&selectedDate=2026-10-18"
-        },
-        {
-          "date": "2026-10-18",
-          "time": "16:34",
-          "spots_available": 1,
-          "total_spots": 4,
-          "price_tiers": [],
-          "booking_type": "Social Play",
-          "booking_url": "https://masseypark.miclub.com.au/guests/bookings/ViewPublicTimesheet.msp?bookingResourceId=3000000&feeGroupId=DISCOVER&selectedDate=2026-10-18"
-        },
-        {
-          "date": "2026-10-18",
-          "time": "16:41",
-          "spots_available": 2,
-          "total_spots": 4,
-          "price_tiers": [],
-          "booking_type": "Social Play",
-          "booking_url": "https://masseypark.miclub.com.au/guests/bookings/ViewPublicTimesheet.msp?bookingResourceId=3000000&feeGroupId=DISCOVER&selectedDate=2026-10-18"
-        },
-        {
           "date": "2026-10-19",
           "time": "06:00",
           "spots_available": 4,
@@ -8633,7 +8201,7 @@
         {
           "date": "2026-10-19",
           "time": "07:59",
-          "spots_available": 4,
+          "spots_available": 2,
           "total_spots": 4,
           "price_tiers": [],
           "booking_type": "Social Play",
@@ -8722,15 +8290,6 @@
         },
         {
           "date": "2026-10-19",
-          "time": "09:37",
-          "spots_available": 4,
-          "total_spots": 4,
-          "price_tiers": [],
-          "booking_type": "Social Play",
-          "booking_url": "https://masseypark.miclub.com.au/guests/bookings/ViewPublicTimesheet.msp?bookingResourceId=3000000&feeGroupId=DISCOVER&selectedDate=2026-10-19"
-        },
-        {
-          "date": "2026-10-19",
           "time": "09:44",
           "spots_available": 3,
           "total_spots": 4,
@@ -8795,7 +8354,7 @@
         {
           "date": "2026-10-19",
           "time": "10:33",
-          "spots_available": 4,
+          "spots_available": 2,
           "total_spots": 4,
           "price_tiers": [],
           "booking_type": "Social Play",
@@ -8831,7 +8390,7 @@
         {
           "date": "2026-10-19",
           "time": "11:01",
-          "spots_available": 4,
+          "spots_available": 2,
           "total_spots": 4,
           "price_tiers": [],
           "booking_type": "Social Play",
@@ -9209,7 +8768,7 @@
         {
           "date": "2026-10-19",
           "time": "16:02",
-          "spots_available": 4,
+          "spots_available": 2,
           "total_spots": 4,
           "price_tiers": [],
           "booking_type": "Social Play",
@@ -9335,6 +8894,15 @@
         {
           "date": "2026-10-20",
           "time": "10:26",
+          "spots_available": 4,
+          "total_spots": 4,
+          "price_tiers": [],
+          "booking_type": "Social Play",
+          "booking_url": "https://masseypark.miclub.com.au/guests/bookings/ViewPublicTimesheet.msp?bookingResourceId=3000000&feeGroupId=DISCOVER&selectedDate=2026-10-20"
+        },
+        {
+          "date": "2026-10-20",
+          "time": "10:33",
           "spots_available": 4,
           "total_spots": 4,
           "price_tiers": [],
@@ -9569,7 +9137,7 @@
         {
           "date": "2026-10-20",
           "time": "14:03",
-          "spots_available": 4,
+          "spots_available": 2,
           "total_spots": 4,
           "price_tiers": [],
           "booking_type": "Social Play",
@@ -10658,7 +10226,7 @@
         {
           "date": "2026-10-23",
           "time": "07:38",
-          "spots_available": 4,
+          "spots_available": 3,
           "total_spots": 4,
           "price_tiers": [],
           "booking_type": "Social Play",
@@ -11126,7 +10694,7 @@
         {
           "date": "2026-10-24",
           "time": "14:21",
-          "spots_available": 4,
+          "spots_available": 1,
           "total_spots": 4,
           "price_tiers": [],
           "booking_type": "Social Play",
@@ -11262,6 +10830,104 @@
       "error": null,
       "slots": [
         {
+          "date": "2026-10-18",
+          "time": "13:18",
+          "spots_available": 2,
+          "total_spots": 4,
+          "price_tiers": [
+            {
+              "label": "Adult (Sat-Sun + Public Holidays)",
+              "amount": 45.0
+            }
+          ],
+          "booking_type": "1st Tee | Social Golf",
+          "booking_url": "https://bexley.miclub.com.au/guests/bookings/ViewPublicTimesheet.msp?bookingResourceId=3000000&feeGroupId=5315151&selectedDate=2026-10-18"
+        },
+        {
+          "date": "2026-10-18",
+          "time": "13:27",
+          "spots_available": 4,
+          "total_spots": 4,
+          "price_tiers": [
+            {
+              "label": "Adult (Sat-Sun + Public Holidays)",
+              "amount": 45.0
+            }
+          ],
+          "booking_type": "1st Tee | Social Golf",
+          "booking_url": "https://bexley.miclub.com.au/guests/bookings/ViewPublicTimesheet.msp?bookingResourceId=3000000&feeGroupId=5315151&selectedDate=2026-10-18"
+        },
+        {
+          "date": "2026-10-18",
+          "time": "13:36",
+          "spots_available": 3,
+          "total_spots": 4,
+          "price_tiers": [
+            {
+              "label": "Adult (Sat-Sun + Public Holidays)",
+              "amount": 45.0
+            }
+          ],
+          "booking_type": "1st Tee | Social Golf",
+          "booking_url": "https://bexley.miclub.com.au/guests/bookings/ViewPublicTimesheet.msp?bookingResourceId=3000000&feeGroupId=5315151&selectedDate=2026-10-18"
+        },
+        {
+          "date": "2026-10-18",
+          "time": "13:45",
+          "spots_available": 4,
+          "total_spots": 4,
+          "price_tiers": [
+            {
+              "label": "Adult (Sat-Sun + Public Holidays)",
+              "amount": 45.0
+            }
+          ],
+          "booking_type": "1st Tee | Social Golf",
+          "booking_url": "https://bexley.miclub.com.au/guests/bookings/ViewPublicTimesheet.msp?bookingResourceId=3000000&feeGroupId=5315151&selectedDate=2026-10-18"
+        },
+        {
+          "date": "2026-10-18",
+          "time": "13:54",
+          "spots_available": 2,
+          "total_spots": 4,
+          "price_tiers": [
+            {
+              "label": "Adult (Sat-Sun + Public Holidays)",
+              "amount": 45.0
+            }
+          ],
+          "booking_type": "1st Tee | Social Golf",
+          "booking_url": "https://bexley.miclub.com.au/guests/bookings/ViewPublicTimesheet.msp?bookingResourceId=3000000&feeGroupId=5315151&selectedDate=2026-10-18"
+        },
+        {
+          "date": "2026-10-18",
+          "time": "14:12",
+          "spots_available": 1,
+          "total_spots": 4,
+          "price_tiers": [
+            {
+              "label": "Adult (Sat-Sun + Public Holidays)",
+              "amount": 45.0
+            }
+          ],
+          "booking_type": "1st Tee | Social Golf",
+          "booking_url": "https://bexley.miclub.com.au/guests/bookings/ViewPublicTimesheet.msp?bookingResourceId=3000000&feeGroupId=5315151&selectedDate=2026-10-18"
+        },
+        {
+          "date": "2026-10-18",
+          "time": "14:57",
+          "spots_available": 4,
+          "total_spots": 4,
+          "price_tiers": [
+            {
+              "label": "Adult (Sat-Sun + Public Holidays)",
+              "amount": 45.0
+            }
+          ],
+          "booking_type": "1st Tee | Social Golf",
+          "booking_url": "https://bexley.miclub.com.au/guests/bookings/ViewPublicTimesheet.msp?bookingResourceId=3000000&feeGroupId=5315151&selectedDate=2026-10-18"
+        },
+        {
           "date": "2026-10-19",
           "time": "06:30",
           "spots_available": 4,
@@ -11300,7 +10966,7 @@
         {
           "date": "2026-10-19",
           "time": "06:44",
-          "spots_available": 4,
+          "spots_available": 3,
           "total_spots": 4,
           "price_tiers": [
             {
@@ -11606,7 +11272,7 @@
         {
           "date": "2026-10-19",
           "time": "10:04",
-          "spots_available": 4,
+          "spots_available": 3,
           "total_spots": 4,
           "price_tiers": [
             {
@@ -14482,15 +14148,6 @@
         },
         {
           "date": "2026-10-21",
-          "time": "13:28",
-          "spots_available": 4,
-          "total_spots": 4,
-          "price_tiers": [],
-          "booking_type": "1st Tee | Social Golf",
-          "booking_url": "https://bexley.miclub.com.au/guests/bookings/ViewPublicTimesheet.msp?bookingResourceId=3000000&feeGroupId=5315151&selectedDate=2026-10-21"
-        },
-        {
-          "date": "2026-10-21",
           "time": "13:37",
           "spots_available": 4,
           "total_spots": 4,
@@ -16626,7 +16283,7 @@
         {
           "date": "2026-10-23",
           "time": "13:37",
-          "spots_available": 4,
+          "spots_available": 3,
           "total_spots": 4,
           "price_tiers": [],
           "booking_type": "1st Tee | Social Golf",
@@ -17593,92 +17250,8 @@
       "slots": [
         {
           "date": "2026-10-18",
-          "time": "14:28",
-          "spots_available": 1,
-          "total_spots": 4,
-          "price_tiers": [
-            {
-              "label": "Weekend 9 Holes(Non-Refundable)",
-              "amount": 29.0
-            }
-          ],
-          "booking_type": "Social Players 1st Tee",
-          "booking_url": "https://beverleypark.miclub.com.au/guests/bookings/ViewPublicTimesheet.msp?bookingResourceId=3000000&feeGroupId=5268234&selectedDate=2026-10-18"
-        },
-        {
-          "date": "2026-10-18",
-          "time": "16:12",
-          "spots_available": 1,
-          "total_spots": 4,
-          "price_tiers": [
-            {
-              "label": "Twilight - Unlimited Golf from 4PM-Sunset(Non-refundable)",
-              "amount": 23.0
-            }
-          ],
-          "booking_type": "Social Players 1st Tee",
-          "booking_url": "https://beverleypark.miclub.com.au/guests/bookings/ViewPublicTimesheet.msp?bookingResourceId=3000000&feeGroupId=5268234&selectedDate=2026-10-18"
-        },
-        {
-          "date": "2026-10-18",
-          "time": "16:20",
-          "spots_available": 3,
-          "total_spots": 4,
-          "price_tiers": [
-            {
-              "label": "Twilight - Unlimited Golf from 4PM-Sunset(Non-refundable)",
-              "amount": 23.0
-            }
-          ],
-          "booking_type": "Social Players 1st Tee",
-          "booking_url": "https://beverleypark.miclub.com.au/guests/bookings/ViewPublicTimesheet.msp?bookingResourceId=3000000&feeGroupId=5268234&selectedDate=2026-10-18"
-        },
-        {
-          "date": "2026-10-18",
-          "time": "16:28",
-          "spots_available": 2,
-          "total_spots": 4,
-          "price_tiers": [
-            {
-              "label": "Twilight - Unlimited Golf from 4PM-Sunset(Non-refundable)",
-              "amount": 23.0
-            }
-          ],
-          "booking_type": "Social Players 1st Tee",
-          "booking_url": "https://beverleypark.miclub.com.au/guests/bookings/ViewPublicTimesheet.msp?bookingResourceId=3000000&feeGroupId=5268234&selectedDate=2026-10-18"
-        },
-        {
-          "date": "2026-10-18",
-          "time": "16:36",
-          "spots_available": 2,
-          "total_spots": 4,
-          "price_tiers": [
-            {
-              "label": "Twilight - Unlimited Golf from 4PM-Sunset(Non-refundable)",
-              "amount": 23.0
-            }
-          ],
-          "booking_type": "Social Players 1st Tee",
-          "booking_url": "https://beverleypark.miclub.com.au/guests/bookings/ViewPublicTimesheet.msp?bookingResourceId=3000000&feeGroupId=5268234&selectedDate=2026-10-18"
-        },
-        {
-          "date": "2026-10-18",
-          "time": "16:44",
-          "spots_available": 4,
-          "total_spots": 4,
-          "price_tiers": [
-            {
-              "label": "Twilight - Unlimited Golf from 4PM-Sunset(Non-refundable)",
-              "amount": 23.0
-            }
-          ],
-          "booking_type": "Social Players 1st Tee",
-          "booking_url": "https://beverleypark.miclub.com.au/guests/bookings/ViewPublicTimesheet.msp?bookingResourceId=3000000&feeGroupId=5268234&selectedDate=2026-10-18"
-        },
-        {
-          "date": "2026-10-18",
           "time": "16:52",
-          "spots_available": 4,
+          "spots_available": 3,
           "total_spots": 4,
           "price_tiers": [
             {
@@ -18752,7 +18325,7 @@
         {
           "date": "2026-10-20",
           "time": "09:43",
-          "spots_available": 4,
+          "spots_available": 2,
           "total_spots": 4,
           "price_tiers": [
             {
@@ -21260,7 +20833,7 @@
         {
           "date": "2026-10-24",
           "time": "13:08",
-          "spots_available": 4,
+          "spots_available": 1,
           "total_spots": 4,
           "price_tiers": [
             {
@@ -21358,7 +20931,7 @@
         {
           "date": "2026-10-24",
           "time": "14:04",
-          "spots_available": 4,
+          "spots_available": 2,
           "total_spots": 4,
           "price_tiers": [
             {
@@ -21551,50 +21124,8 @@
         },
         {
           "date": "2026-10-18",
-          "time": "14:00",
-          "spots_available": 1,
-          "total_spots": 4,
-          "price_tiers": [
-            {
-              "label": "Adult (Weekend)",
-              "amount": 69.0
-            }
-          ],
-          "booking_type": "Social Play",
-          "booking_url": "https://northbridge.miclub.com.au/guests/bookings/ViewPublicTimesheet.msp?bookingResourceId=3000000&feeGroupId=132857&selectedDate=2026-10-18"
-        },
-        {
-          "date": "2026-10-18",
-          "time": "14:30",
-          "spots_available": 2,
-          "total_spots": 4,
-          "price_tiers": [
-            {
-              "label": "Adult (Weekend)",
-              "amount": 69.0
-            }
-          ],
-          "booking_type": "Social Play",
-          "booking_url": "https://northbridge.miclub.com.au/guests/bookings/ViewPublicTimesheet.msp?bookingResourceId=3000000&feeGroupId=132857&selectedDate=2026-10-18"
-        },
-        {
-          "date": "2026-10-18",
           "time": "14:40",
           "spots_available": 1,
-          "total_spots": 4,
-          "price_tiers": [
-            {
-              "label": "Adult (Weekend)",
-              "amount": 69.0
-            }
-          ],
-          "booking_type": "Social Play",
-          "booking_url": "https://northbridge.miclub.com.au/guests/bookings/ViewPublicTimesheet.msp?bookingResourceId=3000000&feeGroupId=132857&selectedDate=2026-10-18"
-        },
-        {
-          "date": "2026-10-18",
-          "time": "15:00",
-          "spots_available": 2,
           "total_spots": 4,
           "price_tiers": [
             {
@@ -21636,7 +21167,7 @@
         {
           "date": "2026-10-18",
           "time": "15:30",
-          "spots_available": 4,
+          "spots_available": 2,
           "total_spots": 4,
           "price_tiers": [
             {
@@ -21912,7 +21443,7 @@
         {
           "date": "2026-10-19",
           "time": "11:20",
-          "spots_available": 4,
+          "spots_available": 1,
           "total_spots": 4,
           "price_tiers": [
             {
@@ -21930,7 +21461,7 @@
         {
           "date": "2026-10-19",
           "time": "11:30",
-          "spots_available": 4,
+          "spots_available": 1,
           "total_spots": 4,
           "price_tiers": [
             {
@@ -24678,7 +24209,7 @@
         {
           "date": "2026-10-23",
           "time": "16:00",
-          "spots_available": 4,
+          "spots_available": 2,
           "total_spots": 4,
           "price_tiers": [
             {
@@ -27020,1094 +26551,6 @@
       "error": null,
       "slots": [
         {
-          "date": "2026-10-18",
-          "time": "06:45",
-          "spots_available": 1,
-          "total_spots": 4,
-          "price_tiers": [
-            {
-              "label": "Weekend Adult",
-              "amount": 43.5
-            },
-            {
-              "label": "Weekend Under 18",
-              "amount": 25.0
-            },
-            {
-              "label": "Senior Weekend",
-              "amount": 43.5
-            }
-          ],
-          "booking_type": "Social Play",
-          "booking_url": "https://kareela.miclub.com.au/guests/bookings/ViewPublicTimesheet.msp?bookingResourceId=3000000&feeGroupId=DISCOVER&selectedDate=2026-10-18"
-        },
-        {
-          "date": "2026-10-18",
-          "time": "06:54",
-          "spots_available": 1,
-          "total_spots": 4,
-          "price_tiers": [
-            {
-              "label": "Weekend Adult",
-              "amount": 43.5
-            },
-            {
-              "label": "Weekend Under 18",
-              "amount": 25.0
-            },
-            {
-              "label": "Senior Weekend",
-              "amount": 43.5
-            }
-          ],
-          "booking_type": "Social Play",
-          "booking_url": "https://kareela.miclub.com.au/guests/bookings/ViewPublicTimesheet.msp?bookingResourceId=3000000&feeGroupId=DISCOVER&selectedDate=2026-10-18"
-        },
-        {
-          "date": "2026-10-18",
-          "time": "07:03",
-          "spots_available": 2,
-          "total_spots": 4,
-          "price_tiers": [
-            {
-              "label": "Weekend Adult",
-              "amount": 43.5
-            },
-            {
-              "label": "Weekend Under 18",
-              "amount": 25.0
-            },
-            {
-              "label": "Senior Weekend",
-              "amount": 43.5
-            }
-          ],
-          "booking_type": "Social Play",
-          "booking_url": "https://kareela.miclub.com.au/guests/bookings/ViewPublicTimesheet.msp?bookingResourceId=3000000&feeGroupId=DISCOVER&selectedDate=2026-10-18"
-        },
-        {
-          "date": "2026-10-18",
-          "time": "07:12",
-          "spots_available": 3,
-          "total_spots": 4,
-          "price_tiers": [
-            {
-              "label": "Weekend Adult",
-              "amount": 43.5
-            },
-            {
-              "label": "Weekend Under 18",
-              "amount": 25.0
-            },
-            {
-              "label": "Senior Weekend",
-              "amount": 43.5
-            }
-          ],
-          "booking_type": "Social Play",
-          "booking_url": "https://kareela.miclub.com.au/guests/bookings/ViewPublicTimesheet.msp?bookingResourceId=3000000&feeGroupId=DISCOVER&selectedDate=2026-10-18"
-        },
-        {
-          "date": "2026-10-18",
-          "time": "07:21",
-          "spots_available": 4,
-          "total_spots": 4,
-          "price_tiers": [
-            {
-              "label": "Weekend Adult",
-              "amount": 43.5
-            },
-            {
-              "label": "Weekend Under 18",
-              "amount": 25.0
-            },
-            {
-              "label": "Senior Weekend",
-              "amount": 43.5
-            }
-          ],
-          "booking_type": "Social Play",
-          "booking_url": "https://kareela.miclub.com.au/guests/bookings/ViewPublicTimesheet.msp?bookingResourceId=3000000&feeGroupId=DISCOVER&selectedDate=2026-10-18"
-        },
-        {
-          "date": "2026-10-18",
-          "time": "07:30",
-          "spots_available": 1,
-          "total_spots": 4,
-          "price_tiers": [
-            {
-              "label": "Weekend Adult",
-              "amount": 43.5
-            },
-            {
-              "label": "Weekend Under 18",
-              "amount": 25.0
-            },
-            {
-              "label": "Senior Weekend",
-              "amount": 43.5
-            }
-          ],
-          "booking_type": "Social Play",
-          "booking_url": "https://kareela.miclub.com.au/guests/bookings/ViewPublicTimesheet.msp?bookingResourceId=3000000&feeGroupId=DISCOVER&selectedDate=2026-10-18"
-        },
-        {
-          "date": "2026-10-18",
-          "time": "08:10",
-          "spots_available": 2,
-          "total_spots": 4,
-          "price_tiers": [
-            {
-              "label": "Weekend Adult",
-              "amount": 43.5
-            },
-            {
-              "label": "Weekend Under 18",
-              "amount": 25.0
-            },
-            {
-              "label": "Senior Weekend",
-              "amount": 43.5
-            }
-          ],
-          "booking_type": "1st Tee Comp.",
-          "booking_url": "https://kareela.miclub.com.au/guests/bookings/ViewPublicTimesheet.msp?bookingResourceId=3000000&feeGroupId=DISCOVER&selectedDate=2026-10-18"
-        },
-        {
-          "date": "2026-10-18",
-          "time": "08:26",
-          "spots_available": 1,
-          "total_spots": 4,
-          "price_tiers": [
-            {
-              "label": "Weekend Adult",
-              "amount": 43.5
-            },
-            {
-              "label": "Weekend Under 18",
-              "amount": 25.0
-            },
-            {
-              "label": "Senior Weekend",
-              "amount": 43.5
-            }
-          ],
-          "booking_type": "1st Tee Comp.",
-          "booking_url": "https://kareela.miclub.com.au/guests/bookings/ViewPublicTimesheet.msp?bookingResourceId=3000000&feeGroupId=DISCOVER&selectedDate=2026-10-18"
-        },
-        {
-          "date": "2026-10-18",
-          "time": "08:50",
-          "spots_available": 1,
-          "total_spots": 4,
-          "price_tiers": [
-            {
-              "label": "Weekend Adult",
-              "amount": 43.5
-            },
-            {
-              "label": "Weekend Under 18",
-              "amount": 25.0
-            },
-            {
-              "label": "Senior Weekend",
-              "amount": 43.5
-            }
-          ],
-          "booking_type": "1st Tee Comp.",
-          "booking_url": "https://kareela.miclub.com.au/guests/bookings/ViewPublicTimesheet.msp?bookingResourceId=3000000&feeGroupId=DISCOVER&selectedDate=2026-10-18"
-        },
-        {
-          "date": "2026-10-18",
-          "time": "08:58",
-          "spots_available": 2,
-          "total_spots": 4,
-          "price_tiers": [
-            {
-              "label": "Weekend Adult",
-              "amount": 43.5
-            },
-            {
-              "label": "Weekend Under 18",
-              "amount": 25.0
-            },
-            {
-              "label": "Senior Weekend",
-              "amount": 43.5
-            }
-          ],
-          "booking_type": "1st Tee Comp.",
-          "booking_url": "https://kareela.miclub.com.au/guests/bookings/ViewPublicTimesheet.msp?bookingResourceId=3000000&feeGroupId=DISCOVER&selectedDate=2026-10-18"
-        },
-        {
-          "date": "2026-10-18",
-          "time": "09:06",
-          "spots_available": 4,
-          "total_spots": 4,
-          "price_tiers": [
-            {
-              "label": "Weekend Adult",
-              "amount": 43.5
-            },
-            {
-              "label": "Weekend Under 18",
-              "amount": 25.0
-            },
-            {
-              "label": "Senior Weekend",
-              "amount": 43.5
-            }
-          ],
-          "booking_type": "1st Tee Comp.",
-          "booking_url": "https://kareela.miclub.com.au/guests/bookings/ViewPublicTimesheet.msp?bookingResourceId=3000000&feeGroupId=DISCOVER&selectedDate=2026-10-18"
-        },
-        {
-          "date": "2026-10-18",
-          "time": "09:14",
-          "spots_available": 1,
-          "total_spots": 4,
-          "price_tiers": [
-            {
-              "label": "Weekend Adult",
-              "amount": 43.5
-            },
-            {
-              "label": "Weekend Under 18",
-              "amount": 25.0
-            },
-            {
-              "label": "Senior Weekend",
-              "amount": 43.5
-            }
-          ],
-          "booking_type": "1st Tee Comp.",
-          "booking_url": "https://kareela.miclub.com.au/guests/bookings/ViewPublicTimesheet.msp?bookingResourceId=3000000&feeGroupId=DISCOVER&selectedDate=2026-10-18"
-        },
-        {
-          "date": "2026-10-18",
-          "time": "09:21",
-          "spots_available": 1,
-          "total_spots": 4,
-          "price_tiers": [
-            {
-              "label": "Weekend Adult",
-              "amount": 43.5
-            },
-            {
-              "label": "Weekend Under 18",
-              "amount": 25.0
-            },
-            {
-              "label": "Senior Weekend",
-              "amount": 43.5
-            }
-          ],
-          "booking_type": "1st Tee Comp.",
-          "booking_url": "https://kareela.miclub.com.au/guests/bookings/ViewPublicTimesheet.msp?bookingResourceId=3000000&feeGroupId=DISCOVER&selectedDate=2026-10-18"
-        },
-        {
-          "date": "2026-10-18",
-          "time": "09:28",
-          "spots_available": 4,
-          "total_spots": 4,
-          "price_tiers": [
-            {
-              "label": "Weekend Adult",
-              "amount": 43.5
-            },
-            {
-              "label": "Weekend Under 18",
-              "amount": 25.0
-            },
-            {
-              "label": "Senior Weekend",
-              "amount": 43.5
-            }
-          ],
-          "booking_type": "1st Tee Comp.",
-          "booking_url": "https://kareela.miclub.com.au/guests/bookings/ViewPublicTimesheet.msp?bookingResourceId=3000000&feeGroupId=DISCOVER&selectedDate=2026-10-18"
-        },
-        {
-          "date": "2026-10-18",
-          "time": "09:43",
-          "spots_available": 3,
-          "total_spots": 4,
-          "price_tiers": [
-            {
-              "label": "Weekend Adult",
-              "amount": 43.5
-            },
-            {
-              "label": "Weekend Under 18",
-              "amount": 25.0
-            },
-            {
-              "label": "Senior Weekend",
-              "amount": 43.5
-            }
-          ],
-          "booking_type": "Social Play",
-          "booking_url": "https://kareela.miclub.com.au/guests/bookings/ViewPublicTimesheet.msp?bookingResourceId=3000000&feeGroupId=DISCOVER&selectedDate=2026-10-18"
-        },
-        {
-          "date": "2026-10-18",
-          "time": "10:07",
-          "spots_available": 3,
-          "total_spots": 4,
-          "price_tiers": [
-            {
-              "label": "Weekend Adult",
-              "amount": 43.5
-            },
-            {
-              "label": "Weekend Under 18",
-              "amount": 25.0
-            },
-            {
-              "label": "Senior Weekend",
-              "amount": 43.5
-            }
-          ],
-          "booking_type": "Social Play",
-          "booking_url": "https://kareela.miclub.com.au/guests/bookings/ViewPublicTimesheet.msp?bookingResourceId=3000000&feeGroupId=DISCOVER&selectedDate=2026-10-18"
-        },
-        {
-          "date": "2026-10-18",
-          "time": "10:15",
-          "spots_available": 2,
-          "total_spots": 4,
-          "price_tiers": [
-            {
-              "label": "Weekend Adult",
-              "amount": 43.5
-            },
-            {
-              "label": "Weekend Under 18",
-              "amount": 25.0
-            },
-            {
-              "label": "Senior Weekend",
-              "amount": 43.5
-            }
-          ],
-          "booking_type": "Social Play",
-          "booking_url": "https://kareela.miclub.com.au/guests/bookings/ViewPublicTimesheet.msp?bookingResourceId=3000000&feeGroupId=DISCOVER&selectedDate=2026-10-18"
-        },
-        {
-          "date": "2026-10-18",
-          "time": "10:23",
-          "spots_available": 2,
-          "total_spots": 4,
-          "price_tiers": [
-            {
-              "label": "Weekend Adult",
-              "amount": 43.5
-            },
-            {
-              "label": "Weekend Under 18",
-              "amount": 25.0
-            },
-            {
-              "label": "Senior Weekend",
-              "amount": 43.5
-            }
-          ],
-          "booking_type": "Social Play",
-          "booking_url": "https://kareela.miclub.com.au/guests/bookings/ViewPublicTimesheet.msp?bookingResourceId=3000000&feeGroupId=DISCOVER&selectedDate=2026-10-18"
-        },
-        {
-          "date": "2026-10-18",
-          "time": "10:39",
-          "spots_available": 4,
-          "total_spots": 4,
-          "price_tiers": [
-            {
-              "label": "Weekend Adult",
-              "amount": 43.5
-            },
-            {
-              "label": "Weekend Under 18",
-              "amount": 25.0
-            },
-            {
-              "label": "Senior Weekend",
-              "amount": 43.5
-            }
-          ],
-          "booking_type": "Social Play",
-          "booking_url": "https://kareela.miclub.com.au/guests/bookings/ViewPublicTimesheet.msp?bookingResourceId=3000000&feeGroupId=DISCOVER&selectedDate=2026-10-18"
-        },
-        {
-          "date": "2026-10-18",
-          "time": "10:47",
-          "spots_available": 1,
-          "total_spots": 4,
-          "price_tiers": [
-            {
-              "label": "Weekend Adult",
-              "amount": 43.5
-            },
-            {
-              "label": "Weekend Under 18",
-              "amount": 25.0
-            },
-            {
-              "label": "Senior Weekend",
-              "amount": 43.5
-            }
-          ],
-          "booking_type": "Social Play",
-          "booking_url": "https://kareela.miclub.com.au/guests/bookings/ViewPublicTimesheet.msp?bookingResourceId=3000000&feeGroupId=DISCOVER&selectedDate=2026-10-18"
-        },
-        {
-          "date": "2026-10-18",
-          "time": "10:55",
-          "spots_available": 4,
-          "total_spots": 4,
-          "price_tiers": [
-            {
-              "label": "Weekend Adult",
-              "amount": 43.5
-            },
-            {
-              "label": "Weekend Under 18",
-              "amount": 25.0
-            },
-            {
-              "label": "Senior Weekend",
-              "amount": 43.5
-            }
-          ],
-          "booking_type": "Social Play",
-          "booking_url": "https://kareela.miclub.com.au/guests/bookings/ViewPublicTimesheet.msp?bookingResourceId=3000000&feeGroupId=DISCOVER&selectedDate=2026-10-18"
-        },
-        {
-          "date": "2026-10-18",
-          "time": "11:06",
-          "spots_available": 4,
-          "total_spots": 4,
-          "price_tiers": [
-            {
-              "label": "Weekend Adult",
-              "amount": 43.5
-            },
-            {
-              "label": "Weekend Under 18",
-              "amount": 25.0
-            },
-            {
-              "label": "Senior Weekend",
-              "amount": 43.5
-            }
-          ],
-          "booking_type": "Social Play",
-          "booking_url": "https://kareela.miclub.com.au/guests/bookings/ViewPublicTimesheet.msp?bookingResourceId=3000000&feeGroupId=DISCOVER&selectedDate=2026-10-18"
-        },
-        {
-          "date": "2026-10-18",
-          "time": "11:15",
-          "spots_available": 2,
-          "total_spots": 4,
-          "price_tiers": [
-            {
-              "label": "Weekend Adult",
-              "amount": 43.5
-            },
-            {
-              "label": "Weekend Under 18",
-              "amount": 25.0
-            },
-            {
-              "label": "Senior Weekend",
-              "amount": 43.5
-            }
-          ],
-          "booking_type": "Social Play",
-          "booking_url": "https://kareela.miclub.com.au/guests/bookings/ViewPublicTimesheet.msp?bookingResourceId=3000000&feeGroupId=DISCOVER&selectedDate=2026-10-18"
-        },
-        {
-          "date": "2026-10-18",
-          "time": "11:24",
-          "spots_available": 2,
-          "total_spots": 4,
-          "price_tiers": [
-            {
-              "label": "Weekend Adult",
-              "amount": 43.5
-            },
-            {
-              "label": "Weekend Under 18",
-              "amount": 25.0
-            },
-            {
-              "label": "Senior Weekend",
-              "amount": 43.5
-            }
-          ],
-          "booking_type": "Social Play",
-          "booking_url": "https://kareela.miclub.com.au/guests/bookings/ViewPublicTimesheet.msp?bookingResourceId=3000000&feeGroupId=DISCOVER&selectedDate=2026-10-18"
-        },
-        {
-          "date": "2026-10-18",
-          "time": "11:33",
-          "spots_available": 4,
-          "total_spots": 4,
-          "price_tiers": [
-            {
-              "label": "Weekend Adult",
-              "amount": 43.5
-            },
-            {
-              "label": "Weekend Under 18",
-              "amount": 25.0
-            },
-            {
-              "label": "Senior Weekend",
-              "amount": 43.5
-            }
-          ],
-          "booking_type": "Social Play",
-          "booking_url": "https://kareela.miclub.com.au/guests/bookings/ViewPublicTimesheet.msp?bookingResourceId=3000000&feeGroupId=DISCOVER&selectedDate=2026-10-18"
-        },
-        {
-          "date": "2026-10-18",
-          "time": "11:42",
-          "spots_available": 4,
-          "total_spots": 4,
-          "price_tiers": [
-            {
-              "label": "Weekend Adult",
-              "amount": 43.5
-            },
-            {
-              "label": "Weekend Under 18",
-              "amount": 25.0
-            },
-            {
-              "label": "Senior Weekend",
-              "amount": 43.5
-            }
-          ],
-          "booking_type": "Social Play",
-          "booking_url": "https://kareela.miclub.com.au/guests/bookings/ViewPublicTimesheet.msp?bookingResourceId=3000000&feeGroupId=DISCOVER&selectedDate=2026-10-18"
-        },
-        {
-          "date": "2026-10-18",
-          "time": "11:51",
-          "spots_available": 4,
-          "total_spots": 4,
-          "price_tiers": [
-            {
-              "label": "Weekend Adult",
-              "amount": 43.5
-            },
-            {
-              "label": "Weekend Under 18",
-              "amount": 25.0
-            },
-            {
-              "label": "Senior Weekend",
-              "amount": 43.5
-            }
-          ],
-          "booking_type": "Social Play",
-          "booking_url": "https://kareela.miclub.com.au/guests/bookings/ViewPublicTimesheet.msp?bookingResourceId=3000000&feeGroupId=DISCOVER&selectedDate=2026-10-18"
-        },
-        {
-          "date": "2026-10-18",
-          "time": "12:00",
-          "spots_available": 1,
-          "total_spots": 4,
-          "price_tiers": [
-            {
-              "label": "Weekend Adult",
-              "amount": 43.5
-            },
-            {
-              "label": "Weekend Under 18",
-              "amount": 25.0
-            },
-            {
-              "label": "Senior Weekend",
-              "amount": 43.5
-            }
-          ],
-          "booking_type": "Social Play",
-          "booking_url": "https://kareela.miclub.com.au/guests/bookings/ViewPublicTimesheet.msp?bookingResourceId=3000000&feeGroupId=DISCOVER&selectedDate=2026-10-18"
-        },
-        {
-          "date": "2026-10-18",
-          "time": "12:09",
-          "spots_available": 4,
-          "total_spots": 4,
-          "price_tiers": [
-            {
-              "label": "Weekend Adult",
-              "amount": 43.5
-            },
-            {
-              "label": "Weekend Under 18",
-              "amount": 25.0
-            },
-            {
-              "label": "Senior Weekend",
-              "amount": 43.5
-            }
-          ],
-          "booking_type": "Social Play",
-          "booking_url": "https://kareela.miclub.com.au/guests/bookings/ViewPublicTimesheet.msp?bookingResourceId=3000000&feeGroupId=DISCOVER&selectedDate=2026-10-18"
-        },
-        {
-          "date": "2026-10-18",
-          "time": "12:18",
-          "spots_available": 4,
-          "total_spots": 4,
-          "price_tiers": [
-            {
-              "label": "Weekend Adult",
-              "amount": 43.5
-            },
-            {
-              "label": "Weekend Under 18",
-              "amount": 25.0
-            },
-            {
-              "label": "Senior Weekend",
-              "amount": 43.5
-            }
-          ],
-          "booking_type": "Social Play",
-          "booking_url": "https://kareela.miclub.com.au/guests/bookings/ViewPublicTimesheet.msp?bookingResourceId=3000000&feeGroupId=DISCOVER&selectedDate=2026-10-18"
-        },
-        {
-          "date": "2026-10-18",
-          "time": "12:45",
-          "spots_available": 4,
-          "total_spots": 4,
-          "price_tiers": [
-            {
-              "label": "Weekend Adult",
-              "amount": 43.5
-            },
-            {
-              "label": "Weekend Under 18",
-              "amount": 25.0
-            },
-            {
-              "label": "Senior Weekend",
-              "amount": 43.5
-            }
-          ],
-          "booking_type": "Social Play",
-          "booking_url": "https://kareela.miclub.com.au/guests/bookings/ViewPublicTimesheet.msp?bookingResourceId=3000000&feeGroupId=DISCOVER&selectedDate=2026-10-18"
-        },
-        {
-          "date": "2026-10-18",
-          "time": "12:54",
-          "spots_available": 4,
-          "total_spots": 4,
-          "price_tiers": [
-            {
-              "label": "Weekend Adult",
-              "amount": 43.5
-            },
-            {
-              "label": "Weekend Under 18",
-              "amount": 25.0
-            },
-            {
-              "label": "Senior Weekend",
-              "amount": 43.5
-            }
-          ],
-          "booking_type": "Social Play",
-          "booking_url": "https://kareela.miclub.com.au/guests/bookings/ViewPublicTimesheet.msp?bookingResourceId=3000000&feeGroupId=DISCOVER&selectedDate=2026-10-18"
-        },
-        {
-          "date": "2026-10-18",
-          "time": "13:12",
-          "spots_available": 3,
-          "total_spots": 4,
-          "price_tiers": [
-            {
-              "label": "Weekend Adult",
-              "amount": 43.5
-            },
-            {
-              "label": "Weekend Under 18",
-              "amount": 25.0
-            },
-            {
-              "label": "Senior Weekend",
-              "amount": 43.5
-            }
-          ],
-          "booking_type": "Social Play",
-          "booking_url": "https://kareela.miclub.com.au/guests/bookings/ViewPublicTimesheet.msp?bookingResourceId=3000000&feeGroupId=DISCOVER&selectedDate=2026-10-18"
-        },
-        {
-          "date": "2026-10-18",
-          "time": "13:21",
-          "spots_available": 4,
-          "total_spots": 4,
-          "price_tiers": [
-            {
-              "label": "Weekend Adult",
-              "amount": 43.5
-            },
-            {
-              "label": "Weekend Under 18",
-              "amount": 25.0
-            },
-            {
-              "label": "Senior Weekend",
-              "amount": 43.5
-            }
-          ],
-          "booking_type": "Social Play",
-          "booking_url": "https://kareela.miclub.com.au/guests/bookings/ViewPublicTimesheet.msp?bookingResourceId=3000000&feeGroupId=DISCOVER&selectedDate=2026-10-18"
-        },
-        {
-          "date": "2026-10-18",
-          "time": "13:30",
-          "spots_available": 1,
-          "total_spots": 4,
-          "price_tiers": [
-            {
-              "label": "Weekend Adult",
-              "amount": 43.5
-            },
-            {
-              "label": "Weekend Under 18",
-              "amount": 25.0
-            },
-            {
-              "label": "Senior Weekend",
-              "amount": 43.5
-            }
-          ],
-          "booking_type": "Social Play",
-          "booking_url": "https://kareela.miclub.com.au/guests/bookings/ViewPublicTimesheet.msp?bookingResourceId=3000000&feeGroupId=DISCOVER&selectedDate=2026-10-18"
-        },
-        {
-          "date": "2026-10-18",
-          "time": "13:39",
-          "spots_available": 4,
-          "total_spots": 4,
-          "price_tiers": [
-            {
-              "label": "Weekend Adult",
-              "amount": 43.5
-            },
-            {
-              "label": "Weekend Under 18",
-              "amount": 25.0
-            },
-            {
-              "label": "Senior Weekend",
-              "amount": 43.5
-            }
-          ],
-          "booking_type": "Social Play",
-          "booking_url": "https://kareela.miclub.com.au/guests/bookings/ViewPublicTimesheet.msp?bookingResourceId=3000000&feeGroupId=DISCOVER&selectedDate=2026-10-18"
-        },
-        {
-          "date": "2026-10-18",
-          "time": "13:48",
-          "spots_available": 4,
-          "total_spots": 4,
-          "price_tiers": [
-            {
-              "label": "Weekend Adult",
-              "amount": 43.5
-            },
-            {
-              "label": "Weekend Under 18",
-              "amount": 25.0
-            },
-            {
-              "label": "Senior Weekend",
-              "amount": 43.5
-            }
-          ],
-          "booking_type": "Social Play",
-          "booking_url": "https://kareela.miclub.com.au/guests/bookings/ViewPublicTimesheet.msp?bookingResourceId=3000000&feeGroupId=DISCOVER&selectedDate=2026-10-18"
-        },
-        {
-          "date": "2026-10-18",
-          "time": "13:57",
-          "spots_available": 4,
-          "total_spots": 4,
-          "price_tiers": [
-            {
-              "label": "Weekend Adult",
-              "amount": 43.5
-            },
-            {
-              "label": "Weekend Under 18",
-              "amount": 25.0
-            },
-            {
-              "label": "Senior Weekend",
-              "amount": 43.5
-            }
-          ],
-          "booking_type": "Social Play",
-          "booking_url": "https://kareela.miclub.com.au/guests/bookings/ViewPublicTimesheet.msp?bookingResourceId=3000000&feeGroupId=DISCOVER&selectedDate=2026-10-18"
-        },
-        {
-          "date": "2026-10-18",
-          "time": "14:06",
-          "spots_available": 3,
-          "total_spots": 4,
-          "price_tiers": [
-            {
-              "label": "Weekend Under 18",
-              "amount": 25.0
-            }
-          ],
-          "booking_type": "Social Play",
-          "booking_url": "https://kareela.miclub.com.au/guests/bookings/ViewPublicTimesheet.msp?bookingResourceId=3000000&feeGroupId=DISCOVER&selectedDate=2026-10-18"
-        },
-        {
-          "date": "2026-10-18",
-          "time": "14:33",
-          "spots_available": 3,
-          "total_spots": 4,
-          "price_tiers": [
-            {
-              "label": "Weekend Under 18",
-              "amount": 25.0
-            }
-          ],
-          "booking_type": "Social Play",
-          "booking_url": "https://kareela.miclub.com.au/guests/bookings/ViewPublicTimesheet.msp?bookingResourceId=3000000&feeGroupId=DISCOVER&selectedDate=2026-10-18"
-        },
-        {
-          "date": "2026-10-18",
-          "time": "14:42",
-          "spots_available": 4,
-          "total_spots": 4,
-          "price_tiers": [
-            {
-              "label": "Weekend Under 18",
-              "amount": 25.0
-            }
-          ],
-          "booking_type": "Social Play",
-          "booking_url": "https://kareela.miclub.com.au/guests/bookings/ViewPublicTimesheet.msp?bookingResourceId=3000000&feeGroupId=DISCOVER&selectedDate=2026-10-18"
-        },
-        {
-          "date": "2026-10-18",
-          "time": "14:51",
-          "spots_available": 4,
-          "total_spots": 4,
-          "price_tiers": [
-            {
-              "label": "Weekend Under 18",
-              "amount": 25.0
-            }
-          ],
-          "booking_type": "Social Play",
-          "booking_url": "https://kareela.miclub.com.au/guests/bookings/ViewPublicTimesheet.msp?bookingResourceId=3000000&feeGroupId=DISCOVER&selectedDate=2026-10-18"
-        },
-        {
-          "date": "2026-10-18",
-          "time": "15:00",
-          "spots_available": 1,
-          "total_spots": 4,
-          "price_tiers": [
-            {
-              "label": "Weekend Under 18",
-              "amount": 25.0
-            }
-          ],
-          "booking_type": "Social Play",
-          "booking_url": "https://kareela.miclub.com.au/guests/bookings/ViewPublicTimesheet.msp?bookingResourceId=3000000&feeGroupId=DISCOVER&selectedDate=2026-10-18"
-        },
-        {
-          "date": "2026-10-18",
-          "time": "15:09",
-          "spots_available": 4,
-          "total_spots": 4,
-          "price_tiers": [
-            {
-              "label": "Weekend Under 18",
-              "amount": 25.0
-            }
-          ],
-          "booking_type": "Social Play",
-          "booking_url": "https://kareela.miclub.com.au/guests/bookings/ViewPublicTimesheet.msp?bookingResourceId=3000000&feeGroupId=DISCOVER&selectedDate=2026-10-18"
-        },
-        {
-          "date": "2026-10-18",
-          "time": "15:18",
-          "spots_available": 4,
-          "total_spots": 4,
-          "price_tiers": [
-            {
-              "label": "Weekend Under 18",
-              "amount": 25.0
-            }
-          ],
-          "booking_type": "Social Play",
-          "booking_url": "https://kareela.miclub.com.au/guests/bookings/ViewPublicTimesheet.msp?bookingResourceId=3000000&feeGroupId=DISCOVER&selectedDate=2026-10-18"
-        },
-        {
-          "date": "2026-10-18",
-          "time": "15:27",
-          "spots_available": 4,
-          "total_spots": 4,
-          "price_tiers": [
-            {
-              "label": "Weekend Under 18",
-              "amount": 25.0
-            }
-          ],
-          "booking_type": "Social Play",
-          "booking_url": "https://kareela.miclub.com.au/guests/bookings/ViewPublicTimesheet.msp?bookingResourceId=3000000&feeGroupId=DISCOVER&selectedDate=2026-10-18"
-        },
-        {
-          "date": "2026-10-18",
-          "time": "15:36",
-          "spots_available": 4,
-          "total_spots": 4,
-          "price_tiers": [
-            {
-              "label": "Weekend Under 18",
-              "amount": 25.0
-            }
-          ],
-          "booking_type": "Social Play",
-          "booking_url": "https://kareela.miclub.com.au/guests/bookings/ViewPublicTimesheet.msp?bookingResourceId=3000000&feeGroupId=DISCOVER&selectedDate=2026-10-18"
-        },
-        {
-          "date": "2026-10-18",
-          "time": "15:45",
-          "spots_available": 4,
-          "total_spots": 4,
-          "price_tiers": [
-            {
-              "label": "Weekend Under 18",
-              "amount": 25.0
-            }
-          ],
-          "booking_type": "Social Play",
-          "booking_url": "https://kareela.miclub.com.au/guests/bookings/ViewPublicTimesheet.msp?bookingResourceId=3000000&feeGroupId=DISCOVER&selectedDate=2026-10-18"
-        },
-        {
-          "date": "2026-10-18",
-          "time": "15:54",
-          "spots_available": 4,
-          "total_spots": 4,
-          "price_tiers": [
-            {
-              "label": "Weekend Under 18",
-              "amount": 25.0
-            }
-          ],
-          "booking_type": "Social Play",
-          "booking_url": "https://kareela.miclub.com.au/guests/bookings/ViewPublicTimesheet.msp?bookingResourceId=3000000&feeGroupId=DISCOVER&selectedDate=2026-10-18"
-        },
-        {
-          "date": "2026-10-18",
-          "time": "16:03",
-          "spots_available": 4,
-          "total_spots": 4,
-          "price_tiers": [
-            {
-              "label": "Weekend Under 18",
-              "amount": 25.0
-            }
-          ],
-          "booking_type": "Social Play",
-          "booking_url": "https://kareela.miclub.com.au/guests/bookings/ViewPublicTimesheet.msp?bookingResourceId=3000000&feeGroupId=DISCOVER&selectedDate=2026-10-18"
-        },
-        {
-          "date": "2026-10-18",
-          "time": "16:12",
-          "spots_available": 4,
-          "total_spots": 4,
-          "price_tiers": [
-            {
-              "label": "Weekend Under 18",
-              "amount": 25.0
-            }
-          ],
-          "booking_type": "Social Play",
-          "booking_url": "https://kareela.miclub.com.au/guests/bookings/ViewPublicTimesheet.msp?bookingResourceId=3000000&feeGroupId=DISCOVER&selectedDate=2026-10-18"
-        },
-        {
-          "date": "2026-10-18",
-          "time": "16:21",
-          "spots_available": 4,
-          "total_spots": 4,
-          "price_tiers": [
-            {
-              "label": "Weekend Under 18",
-              "amount": 25.0
-            }
-          ],
-          "booking_type": "Social Play",
-          "booking_url": "https://kareela.miclub.com.au/guests/bookings/ViewPublicTimesheet.msp?bookingResourceId=3000000&feeGroupId=DISCOVER&selectedDate=2026-10-18"
-        },
-        {
-          "date": "2026-10-18",
-          "time": "16:30",
-          "spots_available": 4,
-          "total_spots": 4,
-          "price_tiers": [
-            {
-              "label": "Weekend Under 18",
-              "amount": 25.0
-            }
-          ],
-          "booking_type": "Social Play",
-          "booking_url": "https://kareela.miclub.com.au/guests/bookings/ViewPublicTimesheet.msp?bookingResourceId=3000000&feeGroupId=DISCOVER&selectedDate=2026-10-18"
-        },
-        {
-          "date": "2026-10-18",
-          "time": "16:39",
-          "spots_available": 4,
-          "total_spots": 4,
-          "price_tiers": [
-            {
-              "label": "Weekend Under 18",
-              "amount": 25.0
-            }
-          ],
-          "booking_type": "Social Play",
-          "booking_url": "https://kareela.miclub.com.au/guests/bookings/ViewPublicTimesheet.msp?bookingResourceId=3000000&feeGroupId=DISCOVER&selectedDate=2026-10-18"
-        },
-        {
-          "date": "2026-10-18",
-          "time": "16:48",
-          "spots_available": 4,
-          "total_spots": 4,
-          "price_tiers": [
-            {
-              "label": "Weekend Under 18",
-              "amount": 25.0
-            }
-          ],
-          "booking_type": "Social Play",
-          "booking_url": "https://kareela.miclub.com.au/guests/bookings/ViewPublicTimesheet.msp?bookingResourceId=3000000&feeGroupId=DISCOVER&selectedDate=2026-10-18"
-        },
-        {
-          "date": "2026-10-18",
-          "time": "16:57",
-          "spots_available": 4,
-          "total_spots": 4,
-          "price_tiers": [
-            {
-              "label": "Weekend Under 18",
-              "amount": 25.0
-            }
-          ],
-          "booking_type": "Social Play",
-          "booking_url": "https://kareela.miclub.com.au/guests/bookings/ViewPublicTimesheet.msp?bookingResourceId=3000000&feeGroupId=DISCOVER&selectedDate=2026-10-18"
-        },
-        {
           "date": "2026-10-19",
           "time": "08:27",
           "spots_available": 4,
@@ -28198,7 +26641,7 @@
         {
           "date": "2026-10-19",
           "time": "09:21",
-          "spots_available": 4,
+          "spots_available": 2,
           "total_spots": 4,
           "price_tiers": [
             {
@@ -28220,7 +26663,7 @@
         {
           "date": "2026-10-19",
           "time": "09:30",
-          "spots_available": 4,
+          "spots_available": 1,
           "total_spots": 4,
           "price_tiers": [
             {
@@ -33215,34 +31658,6 @@
         },
         {
           "date": "2026-10-18",
-          "time": "13:40",
-          "spots_available": 2,
-          "total_spots": 4,
-          "price_tiers": [
-            {
-              "label": "Weekend",
-              "amount": 44.0
-            }
-          ],
-          "booking_type": "Social Play from 12.00pm",
-          "booking_url": "https://www.bankstowngolf.com.au/guests/bookings/ViewPublicTimesheet.msp?bookingResourceId=3000000&feeGroupId=1509794765&selectedDate=2026-10-18"
-        },
-        {
-          "date": "2026-10-18",
-          "time": "13:50",
-          "spots_available": 2,
-          "total_spots": 4,
-          "price_tiers": [
-            {
-              "label": "Weekend",
-              "amount": 44.0
-            }
-          ],
-          "booking_type": "Social Play from 12.00pm",
-          "booking_url": "https://www.bankstowngolf.com.au/guests/bookings/ViewPublicTimesheet.msp?bookingResourceId=3000000&feeGroupId=1509794765&selectedDate=2026-10-18"
-        },
-        {
-          "date": "2026-10-18",
           "time": "14:20",
           "spots_available": 2,
           "total_spots": 4,
@@ -33580,7 +31995,7 @@
         {
           "date": "2026-10-19",
           "time": "12:40",
-          "spots_available": 4,
+          "spots_available": 2,
           "total_spots": 4,
           "price_tiers": [
             {
@@ -35802,230 +34217,6 @@
       "error": null,
       "slots": [
         {
-          "date": "2026-10-18",
-          "time": "13:32",
-          "spots_available": 2,
-          "total_spots": 4,
-          "price_tiers": [
-            {
-              "label": "Weekend 18 Holes",
-              "amount": 70.0
-            }
-          ],
-          "booking_type": "Social Play 1st Tee",
-          "booking_url": "https://northryde.miclub.com.au/guests/bookings/ViewPublicTimesheet.msp?bookingResourceId=3000000&feeGroupId=5351785&selectedDate=2026-10-18"
-        },
-        {
-          "date": "2026-10-18",
-          "time": "13:46",
-          "spots_available": 2,
-          "total_spots": 4,
-          "price_tiers": [
-            {
-              "label": "Weekend 18 Holes",
-              "amount": 70.0
-            }
-          ],
-          "booking_type": "Social Play 1st Tee",
-          "booking_url": "https://northryde.miclub.com.au/guests/bookings/ViewPublicTimesheet.msp?bookingResourceId=3000000&feeGroupId=5351785&selectedDate=2026-10-18"
-        },
-        {
-          "date": "2026-10-18",
-          "time": "14:07",
-          "spots_available": 1,
-          "total_spots": 4,
-          "price_tiers": [
-            {
-              "label": "Weekend 18 Holes",
-              "amount": 70.0
-            }
-          ],
-          "booking_type": "Social Play 1st Tee",
-          "booking_url": "https://northryde.miclub.com.au/guests/bookings/ViewPublicTimesheet.msp?bookingResourceId=3000000&feeGroupId=5351785&selectedDate=2026-10-18"
-        },
-        {
-          "date": "2026-10-18",
-          "time": "14:21",
-          "spots_available": 1,
-          "total_spots": 4,
-          "price_tiers": [
-            {
-              "label": "Weekend 18 Holes",
-              "amount": 70.0
-            }
-          ],
-          "booking_type": "Social Play 1st Tee",
-          "booking_url": "https://northryde.miclub.com.au/guests/bookings/ViewPublicTimesheet.msp?bookingResourceId=3000000&feeGroupId=5351785&selectedDate=2026-10-18"
-        },
-        {
-          "date": "2026-10-18",
-          "time": "14:35",
-          "spots_available": 2,
-          "total_spots": 4,
-          "price_tiers": [
-            {
-              "label": "Weekend 18 Holes",
-              "amount": 70.0
-            }
-          ],
-          "booking_type": "Social Play 1st Tee",
-          "booking_url": "https://northryde.miclub.com.au/guests/bookings/ViewPublicTimesheet.msp?bookingResourceId=3000000&feeGroupId=5351785&selectedDate=2026-10-18"
-        },
-        {
-          "date": "2026-10-18",
-          "time": "14:42",
-          "spots_available": 3,
-          "total_spots": 4,
-          "price_tiers": [
-            {
-              "label": "Weekend 18 Holes",
-              "amount": 70.0
-            }
-          ],
-          "booking_type": "Social Play 1st Tee",
-          "booking_url": "https://northryde.miclub.com.au/guests/bookings/ViewPublicTimesheet.msp?bookingResourceId=3000000&feeGroupId=5351785&selectedDate=2026-10-18"
-        },
-        {
-          "date": "2026-10-18",
-          "time": "14:49",
-          "spots_available": 1,
-          "total_spots": 4,
-          "price_tiers": [
-            {
-              "label": "Weekend 18 Holes",
-              "amount": 70.0
-            }
-          ],
-          "booking_type": "Social Play 1st Tee",
-          "booking_url": "https://northryde.miclub.com.au/guests/bookings/ViewPublicTimesheet.msp?bookingResourceId=3000000&feeGroupId=5351785&selectedDate=2026-10-18"
-        },
-        {
-          "date": "2026-10-18",
-          "time": "14:56",
-          "spots_available": 4,
-          "total_spots": 4,
-          "price_tiers": [
-            {
-              "label": "Weekend 18 Holes",
-              "amount": 70.0
-            }
-          ],
-          "booking_type": "Social Play 1st Tee",
-          "booking_url": "https://northryde.miclub.com.au/guests/bookings/ViewPublicTimesheet.msp?bookingResourceId=3000000&feeGroupId=5351785&selectedDate=2026-10-18"
-        },
-        {
-          "date": "2026-10-18",
-          "time": "15:03",
-          "spots_available": 2,
-          "total_spots": 4,
-          "price_tiers": [
-            {
-              "label": "Weekend 18 Holes",
-              "amount": 70.0
-            }
-          ],
-          "booking_type": "Social Play 1st Tee",
-          "booking_url": "https://northryde.miclub.com.au/guests/bookings/ViewPublicTimesheet.msp?bookingResourceId=3000000&feeGroupId=5351785&selectedDate=2026-10-18"
-        },
-        {
-          "date": "2026-10-18",
-          "time": "15:10",
-          "spots_available": 4,
-          "total_spots": 4,
-          "price_tiers": [
-            {
-              "label": "Weekend 18 Holes",
-              "amount": 70.0
-            }
-          ],
-          "booking_type": "Social Play 1st Tee",
-          "booking_url": "https://northryde.miclub.com.au/guests/bookings/ViewPublicTimesheet.msp?bookingResourceId=3000000&feeGroupId=5351785&selectedDate=2026-10-18"
-        },
-        {
-          "date": "2026-10-18",
-          "time": "15:17",
-          "spots_available": 2,
-          "total_spots": 4,
-          "price_tiers": [
-            {
-              "label": "Weekend 18 Holes",
-              "amount": 70.0
-            }
-          ],
-          "booking_type": "Social Play 1st Tee",
-          "booking_url": "https://northryde.miclub.com.au/guests/bookings/ViewPublicTimesheet.msp?bookingResourceId=3000000&feeGroupId=5351785&selectedDate=2026-10-18"
-        },
-        {
-          "date": "2026-10-18",
-          "time": "15:24",
-          "spots_available": 4,
-          "total_spots": 4,
-          "price_tiers": [
-            {
-              "label": "Weekend 18 Holes",
-              "amount": 70.0
-            }
-          ],
-          "booking_type": "Social Play 1st Tee",
-          "booking_url": "https://northryde.miclub.com.au/guests/bookings/ViewPublicTimesheet.msp?bookingResourceId=3000000&feeGroupId=5351785&selectedDate=2026-10-18"
-        },
-        {
-          "date": "2026-10-18",
-          "time": "15:38",
-          "spots_available": 2,
-          "total_spots": 4,
-          "price_tiers": [
-            {
-              "label": "Weekend 18 Holes",
-              "amount": 70.0
-            }
-          ],
-          "booking_type": "Social Play 1st Tee",
-          "booking_url": "https://northryde.miclub.com.au/guests/bookings/ViewPublicTimesheet.msp?bookingResourceId=3000000&feeGroupId=5351785&selectedDate=2026-10-18"
-        },
-        {
-          "date": "2026-10-18",
-          "time": "15:45",
-          "spots_available": 1,
-          "total_spots": 4,
-          "price_tiers": [
-            {
-              "label": "Weekend 18 Holes",
-              "amount": 70.0
-            }
-          ],
-          "booking_type": "Social Play 1st Tee",
-          "booking_url": "https://northryde.miclub.com.au/guests/bookings/ViewPublicTimesheet.msp?bookingResourceId=3000000&feeGroupId=5351785&selectedDate=2026-10-18"
-        },
-        {
-          "date": "2026-10-18",
-          "time": "15:52",
-          "spots_available": 4,
-          "total_spots": 4,
-          "price_tiers": [
-            {
-              "label": "Weekend 18 Holes",
-              "amount": 70.0
-            }
-          ],
-          "booking_type": "Social Play 1st Tee",
-          "booking_url": "https://northryde.miclub.com.au/guests/bookings/ViewPublicTimesheet.msp?bookingResourceId=3000000&feeGroupId=5351785&selectedDate=2026-10-18"
-        },
-        {
-          "date": "2026-10-18",
-          "time": "15:59",
-          "spots_available": 4,
-          "total_spots": 4,
-          "price_tiers": [
-            {
-              "label": "Weekend 18 Holes",
-              "amount": 70.0
-            }
-          ],
-          "booking_type": "Social Play 1st Tee",
-          "booking_url": "https://northryde.miclub.com.au/guests/bookings/ViewPublicTimesheet.msp?bookingResourceId=3000000&feeGroupId=5351785&selectedDate=2026-10-18"
-        },
-        {
           "date": "2026-10-19",
           "time": "11:10",
           "spots_available": 2,
@@ -36294,7 +34485,7 @@
         {
           "date": "2026-10-19",
           "time": "14:11",
-          "spots_available": 4,
+          "spots_available": 1,
           "total_spots": 4,
           "price_tiers": [
             {
@@ -36508,7 +34699,7 @@
         {
           "date": "2026-10-20",
           "time": "12:26",
-          "spots_available": 4,
+          "spots_available": 1,
           "total_spots": 4,
           "price_tiers": [
             {
@@ -36980,7 +35171,7 @@
         {
           "date": "2026-10-21",
           "time": "12:33",
-          "spots_available": 4,
+          "spots_available": 2,
           "total_spots": 4,
           "price_tiers": [
             {
@@ -37016,7 +35207,7 @@
         {
           "date": "2026-10-21",
           "time": "12:47",
-          "spots_available": 4,
+          "spots_available": 2,
           "total_spots": 4,
           "price_tiers": [
             {
@@ -38508,7 +36699,7 @@
         {
           "date": "2026-10-24",
           "time": "13:09",
-          "spots_available": 4,
+          "spots_available": 1,
           "total_spots": 4,
           "price_tiers": [
             {
@@ -38879,20 +37070,6 @@
       "error": null,
       "slots": [
         {
-          "date": "2026-10-18",
-          "time": "08:40",
-          "spots_available": 2,
-          "total_spots": 4,
-          "price_tiers": [
-            {
-              "label": "Weekend 18 Hole 2026",
-              "amount": 77.0
-            }
-          ],
-          "booking_type": "1st Public 18 Holes",
-          "booking_url": "https://wakehurst.miclub.com.au/guests/bookings/ViewPublicTimesheet.msp?bookingResourceId=3000000&feeGroupId=DISCOVER&selectedDate=2026-10-18"
-        },
-        {
           "date": "2026-10-19",
           "time": "10:38",
           "spots_available": 2,
@@ -38923,7 +37100,7 @@
         {
           "date": "2026-10-19",
           "time": "11:02",
-          "spots_available": 4,
+          "spots_available": 2,
           "total_spots": 4,
           "price_tiers": [
             {
@@ -39189,7 +37366,7 @@
         {
           "date": "2026-10-20",
           "time": "10:30",
-          "spots_available": 4,
+          "spots_available": 2,
           "total_spots": 4,
           "price_tiers": [
             {
@@ -39496,20 +37673,6 @@
         },
         {
           "date": "2026-10-22",
-          "time": "09:56",
-          "spots_available": 4,
-          "total_spots": 4,
-          "price_tiers": [
-            {
-              "label": "18 Midweek 2026",
-              "amount": 72.0
-            }
-          ],
-          "booking_type": "1st Tee Social Golf",
-          "booking_url": "https://wakehurst.miclub.com.au/guests/bookings/ViewPublicTimesheet.msp?bookingResourceId=3000000&feeGroupId=DISCOVER&selectedDate=2026-10-22"
-        },
-        {
-          "date": "2026-10-22",
           "time": "10:04",
           "spots_available": 4,
           "total_spots": 4,
@@ -39777,7 +37940,7 @@
         {
           "date": "2026-10-23",
           "time": "09:28",
-          "spots_available": 4,
+          "spots_available": 2,
           "total_spots": 4,
           "price_tiers": [
             {
@@ -40095,174 +38258,6 @@
       "error": null,
       "slots": [
         {
-          "date": "2026-10-18",
-          "time": "14:54",
-          "spots_available": 2,
-          "total_spots": 4,
-          "price_tiers": [
-            {
-              "label": "Social 9 Holes Weekend - Online Rate",
-              "amount": 45.0
-            }
-          ],
-          "booking_type": "1st Tee Social",
-          "booking_url": "https://brightonlakes.miclub.com.au/guests/bookings/ViewPublicTimesheet.msp?bookingResourceId=3000000&feeGroupId=4328836&selectedDate=2026-10-18"
-        },
-        {
-          "date": "2026-10-18",
-          "time": "15:04",
-          "spots_available": 2,
-          "total_spots": 4,
-          "price_tiers": [
-            {
-              "label": "Social 9 Holes Weekend - Online Rate",
-              "amount": 45.0
-            }
-          ],
-          "booking_type": "1st Tee Social",
-          "booking_url": "https://brightonlakes.miclub.com.au/guests/bookings/ViewPublicTimesheet.msp?bookingResourceId=3000000&feeGroupId=4328836&selectedDate=2026-10-18"
-        },
-        {
-          "date": "2026-10-18",
-          "time": "15:12",
-          "spots_available": 2,
-          "total_spots": 4,
-          "price_tiers": [
-            {
-              "label": "Social 9 Holes Weekend - Online Rate",
-              "amount": 45.0
-            }
-          ],
-          "booking_type": "1st Tee Social",
-          "booking_url": "https://brightonlakes.miclub.com.au/guests/bookings/ViewPublicTimesheet.msp?bookingResourceId=3000000&feeGroupId=4328836&selectedDate=2026-10-18"
-        },
-        {
-          "date": "2026-10-18",
-          "time": "15:20",
-          "spots_available": 4,
-          "total_spots": 4,
-          "price_tiers": [
-            {
-              "label": "Social 9 Holes Weekend - Online Rate",
-              "amount": 45.0
-            }
-          ],
-          "booking_type": "1st Tee Social",
-          "booking_url": "https://brightonlakes.miclub.com.au/guests/bookings/ViewPublicTimesheet.msp?bookingResourceId=3000000&feeGroupId=4328836&selectedDate=2026-10-18"
-        },
-        {
-          "date": "2026-10-18",
-          "time": "15:28",
-          "spots_available": 4,
-          "total_spots": 4,
-          "price_tiers": [
-            {
-              "label": "Social 9 Holes Weekend - Online Rate",
-              "amount": 45.0
-            }
-          ],
-          "booking_type": "1st Tee Social",
-          "booking_url": "https://brightonlakes.miclub.com.au/guests/bookings/ViewPublicTimesheet.msp?bookingResourceId=3000000&feeGroupId=4328836&selectedDate=2026-10-18"
-        },
-        {
-          "date": "2026-10-18",
-          "time": "15:34",
-          "spots_available": 4,
-          "total_spots": 4,
-          "price_tiers": [
-            {
-              "label": "Social 9 Holes Weekend - Online Rate",
-              "amount": 45.0
-            }
-          ],
-          "booking_type": "1st Tee Social",
-          "booking_url": "https://brightonlakes.miclub.com.au/guests/bookings/ViewPublicTimesheet.msp?bookingResourceId=3000000&feeGroupId=4328836&selectedDate=2026-10-18"
-        },
-        {
-          "date": "2026-10-18",
-          "time": "15:42",
-          "spots_available": 4,
-          "total_spots": 4,
-          "price_tiers": [
-            {
-              "label": "Social 9 Holes Weekend - Online Rate",
-              "amount": 45.0
-            }
-          ],
-          "booking_type": "1st Tee Social",
-          "booking_url": "https://brightonlakes.miclub.com.au/guests/bookings/ViewPublicTimesheet.msp?bookingResourceId=3000000&feeGroupId=4328836&selectedDate=2026-10-18"
-        },
-        {
-          "date": "2026-10-18",
-          "time": "15:50",
-          "spots_available": 4,
-          "total_spots": 4,
-          "price_tiers": [
-            {
-              "label": "Social 9 Holes Weekend - Online Rate",
-              "amount": 45.0
-            }
-          ],
-          "booking_type": "1st Tee Social",
-          "booking_url": "https://brightonlakes.miclub.com.au/guests/bookings/ViewPublicTimesheet.msp?bookingResourceId=3000000&feeGroupId=4328836&selectedDate=2026-10-18"
-        },
-        {
-          "date": "2026-10-18",
-          "time": "15:58",
-          "spots_available": 4,
-          "total_spots": 4,
-          "price_tiers": [
-            {
-              "label": "Social 9 Holes Weekend - Online Rate",
-              "amount": 45.0
-            }
-          ],
-          "booking_type": "1st Tee Social",
-          "booking_url": "https://brightonlakes.miclub.com.au/guests/bookings/ViewPublicTimesheet.msp?bookingResourceId=3000000&feeGroupId=4328836&selectedDate=2026-10-18"
-        },
-        {
-          "date": "2026-10-18",
-          "time": "16:06",
-          "spots_available": 4,
-          "total_spots": 4,
-          "price_tiers": [
-            {
-              "label": "Social 9 Holes Weekend - Online Rate",
-              "amount": 45.0
-            }
-          ],
-          "booking_type": "1st Tee Social",
-          "booking_url": "https://brightonlakes.miclub.com.au/guests/bookings/ViewPublicTimesheet.msp?bookingResourceId=3000000&feeGroupId=4328836&selectedDate=2026-10-18"
-        },
-        {
-          "date": "2026-10-18",
-          "time": "16:14",
-          "spots_available": 4,
-          "total_spots": 4,
-          "price_tiers": [
-            {
-              "label": "Social 9 Holes Weekend - Online Rate",
-              "amount": 45.0
-            }
-          ],
-          "booking_type": "1st Tee Social",
-          "booking_url": "https://brightonlakes.miclub.com.au/guests/bookings/ViewPublicTimesheet.msp?bookingResourceId=3000000&feeGroupId=4328836&selectedDate=2026-10-18"
-        },
-        {
-          "date": "2026-10-18",
-          "time": "16:22",
-          "spots_available": 4,
-          "total_spots": 4,
-          "price_tiers": [
-            {
-              "label": "Social 9 Holes Weekend - Online Rate",
-              "amount": 45.0
-            }
-          ],
-          "booking_type": "1st Tee Social",
-          "booking_url": "https://brightonlakes.miclub.com.au/guests/bookings/ViewPublicTimesheet.msp?bookingResourceId=3000000&feeGroupId=4328836&selectedDate=2026-10-18"
-        },
-        {
           "date": "2026-10-19",
           "time": "11:10",
           "spots_available": 1,
@@ -40321,7 +38316,7 @@
         {
           "date": "2026-10-19",
           "time": "11:58",
-          "spots_available": 4,
+          "spots_available": 2,
           "total_spots": 4,
           "price_tiers": [
             {
@@ -40797,7 +38792,7 @@
         {
           "date": "2026-10-21",
           "time": "09:34",
-          "spots_available": 1,
+          "spots_available": 2,
           "total_spots": 4,
           "price_tiers": [
             {
@@ -41357,7 +39352,7 @@
         {
           "date": "2026-10-23",
           "time": "12:46",
-          "spots_available": 1,
+          "spots_available": 2,
           "total_spots": 4,
           "price_tiers": [
             {
@@ -41760,60 +39755,6 @@
       "slots": [
         {
           "date": "2026-10-18",
-          "time": "07:27",
-          "spots_available": 2,
-          "total_spots": 4,
-          "price_tiers": [
-            {
-              "label": "Weekend 18 Hole",
-              "amount": 95.0
-            },
-            {
-              "label": "School Children",
-              "amount": 35.0
-            }
-          ],
-          "booking_type": "Social Clubs",
-          "booking_url": "https://monavale.miclub.com.au/guests/bookings/ViewPublicTimesheet.msp?bookingResourceId=3000000&feeGroupId=DISCOVER&selectedDate=2026-10-18"
-        },
-        {
-          "date": "2026-10-18",
-          "time": "13:10",
-          "spots_available": 1,
-          "total_spots": 4,
-          "price_tiers": [
-            {
-              "label": "Weekend 18 Hole",
-              "amount": 95.0
-            },
-            {
-              "label": "School Children",
-              "amount": 35.0
-            }
-          ],
-          "booking_type": "Public Play",
-          "booking_url": "https://monavale.miclub.com.au/guests/bookings/ViewPublicTimesheet.msp?bookingResourceId=3000000&feeGroupId=DISCOVER&selectedDate=2026-10-18"
-        },
-        {
-          "date": "2026-10-18",
-          "time": "13:45",
-          "spots_available": 1,
-          "total_spots": 4,
-          "price_tiers": [
-            {
-              "label": "Weekend 18 Hole",
-              "amount": 95.0
-            },
-            {
-              "label": "School Children",
-              "amount": 35.0
-            }
-          ],
-          "booking_type": "Public Play",
-          "booking_url": "https://monavale.miclub.com.au/guests/bookings/ViewPublicTimesheet.msp?bookingResourceId=3000000&feeGroupId=DISCOVER&selectedDate=2026-10-18"
-        },
-        {
-          "date": "2026-10-18",
           "time": "14:20",
           "spots_available": 1,
           "total_spots": 4,
@@ -41851,7 +39792,7 @@
         {
           "date": "2026-10-18",
           "time": "16:12",
-          "spots_available": 4,
+          "spots_available": 2,
           "total_spots": 4,
           "price_tiers": [
             {
@@ -42373,7 +40314,7 @@
         {
           "date": "2026-10-19",
           "time": "12:09",
-          "spots_available": 1,
+          "spots_available": 2,
           "total_spots": 4,
           "price_tiers": [
             {
@@ -42625,24 +40566,6 @@
         {
           "date": "2026-10-19",
           "time": "14:15",
-          "spots_available": 2,
-          "total_spots": 4,
-          "price_tiers": [
-            {
-              "label": "Mon-Tues 18 Holes",
-              "amount": 85.0
-            },
-            {
-              "label": "School Children",
-              "amount": 35.0
-            }
-          ],
-          "booking_type": "Public Play",
-          "booking_url": "https://monavale.miclub.com.au/guests/bookings/ViewPublicTimesheet.msp?bookingResourceId=3000000&feeGroupId=DISCOVER&selectedDate=2026-10-19"
-        },
-        {
-          "date": "2026-10-19",
-          "time": "14:22",
           "spots_available": 2,
           "total_spots": 4,
           "price_tiers": [
@@ -43290,7 +41213,7 @@
         },
         {
           "date": "2026-10-20",
-          "time": "10:03",
+          "time": "10:10",
           "spots_available": 1,
           "total_spots": 4,
           "price_tiers": [
@@ -45219,7 +43142,7 @@
         {
           "date": "2026-10-22",
           "time": "15:46",
-          "spots_available": 4,
+          "spots_available": 2,
           "total_spots": 4,
           "price_tiers": [
             {
@@ -45597,7 +43520,7 @@
         {
           "date": "2026-10-23",
           "time": "06:40",
-          "spots_available": 4,
+          "spots_available": 2,
           "total_spots": 4,
           "price_tiers": [
             {
@@ -45670,24 +43593,6 @@
           "date": "2026-10-23",
           "time": "09:00",
           "spots_available": 1,
-          "total_spots": 4,
-          "price_tiers": [
-            {
-              "label": "Thurs-Fri 18 Holes",
-              "amount": 85.0
-            },
-            {
-              "label": "School Children",
-              "amount": 35.0
-            }
-          ],
-          "booking_type": "Public Play",
-          "booking_url": "https://monavale.miclub.com.au/guests/bookings/ViewPublicTimesheet.msp?bookingResourceId=3000000&feeGroupId=DISCOVER&selectedDate=2026-10-23"
-        },
-        {
-          "date": "2026-10-23",
-          "time": "09:07",
-          "spots_available": 2,
           "total_spots": 4,
           "price_tiers": [
             {
@@ -46951,15 +44856,6 @@
       "slots": [
         {
           "date": "2026-10-19",
-          "time": "14:52",
-          "spots_available": 1,
-          "total_spots": 4,
-          "price_tiers": [],
-          "booking_type": "1st Tee Social Play",
-          "booking_url": "https://stonecutters.miclub.com.au/guests/bookings/ViewPublicTimesheet.msp?bookingResourceId=3000000&feeGroupId=DISCOVER&selectedDate=2026-10-19"
-        },
-        {
-          "date": "2026-10-19",
           "time": "15:00",
           "spots_available": 2,
           "total_spots": 4,
@@ -46970,7 +44866,7 @@
         {
           "date": "2026-10-19",
           "time": "15:08",
-          "spots_available": 1,
+          "spots_available": 2,
           "total_spots": 4,
           "price_tiers": [],
           "booking_type": "1st Tee Social Play",
@@ -47232,24 +45128,6 @@
           "date": "2026-10-21",
           "time": "10:20",
           "spots_available": 2,
-          "total_spots": 4,
-          "price_tiers": [
-            {
-              "label": "Adult M/W/F",
-              "amount": 75.0
-            },
-            {
-              "label": "Pensioner Mon/Wed (ID REQUIRED)",
-              "amount": 55.0
-            }
-          ],
-          "booking_type": "1st Tee Social Play",
-          "booking_url": "https://stonecutters.miclub.com.au/guests/bookings/ViewPublicTimesheet.msp?bookingResourceId=3000000&feeGroupId=DISCOVER&selectedDate=2026-10-21"
-        },
-        {
-          "date": "2026-10-21",
-          "time": "10:28",
-          "spots_available": 4,
           "total_spots": 4,
           "price_tiers": [
             {
@@ -48001,28 +45879,6 @@
           "price_tiers": [],
           "booking_type": "1st Tee Social Play",
           "booking_url": "https://stonecutters.miclub.com.au/guests/bookings/ViewPublicTimesheet.msp?bookingResourceId=3000000&feeGroupId=DISCOVER&selectedDate=2026-10-23"
-        },
-        {
-          "date": "2026-10-24",
-          "time": "13:12",
-          "spots_available": 1,
-          "total_spots": 4,
-          "price_tiers": [
-            {
-              "label": "Adult Weekend",
-              "amount": 80.0
-            },
-            {
-              "label": "Pension Card Weekend (ID REQUIRED)",
-              "amount": 55.0
-            },
-            {
-              "label": "Junior U16 Weekend",
-              "amount": 50.0
-            }
-          ],
-          "booking_type": "1st Tee Comp",
-          "booking_url": "https://stonecutters.miclub.com.au/guests/bookings/ViewPublicTimesheet.msp?bookingResourceId=3000000&feeGroupId=DISCOVER&selectedDate=2026-10-24"
         }
       ]
     }
